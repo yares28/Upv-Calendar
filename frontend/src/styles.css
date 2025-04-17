@@ -1,0 +1,155 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Global CSS Variables - Light Mode (Default) */
+:root {
+  /* Complete background palette */
+  --background-50: #f1f3f1;
+  --background-100: #e4e7e4;
+  --background-200: #c8d0c8;
+  --background-300: #adb8ad;
+  --background-400: #92a092;
+  --background-500: #778877;
+  --background-600: #5f6d5f;
+  --background-700: #475247;
+  --background-800: #2f372f;
+  --background-900: #181b18;
+  --background-950: #0c0e0c;
+  
+  /* Light Mode Colors */
+  --text: rgb(16, 20, 16);
+  --background: var(--background-50);
+  --background-rgb: 241, 243, 241;
+  
+  --surface-1: var(--background-100);
+  --surface-2: var(--background-200);
+  --surface-3: var(--background-300);
+  
+  --primary: var(--background-500);
+  --primary-rgb: 119, 136, 119;
+  --primary-dark: var(--background-600);
+  --primary-light: var(--background-400);
+  
+  --secondary: rgb(181, 195, 196);
+  --accent: rgb(150, 160, 171);
+  --accent-rgb: 150, 160, 171;
+  
+  /* Visual hierarchy colors */
+  --shadow-color: rgba(0, 0, 0, 0.1);
+  --inverse-text: white;
+  --weekday-color: black;
+  
+  --logo-filter: none;
+  --calendar-hover: rgba(119, 136, 119, 0.15);
+  --calendar-exam: var(--background-500);
+  --calendar-exam-hover: var(--background-600);
+  --hover-bg: rgba(0, 0, 0, 0.03);
+
+  /* Common Styling Values */
+  --border-radius: 8px;
+  --box-shadow: 0 4px 12px var(--shadow-color);
+  --transition-speed: 0.3s;
+}
+
+/* Dark Mode Colors */
+[data-theme="dark"] {
+  /* Dark Mode Colors */
+  --text: rgb(235, 239, 235);
+  --background: var(--background-900);
+  --background-rgb: 24, 27, 24;
+  
+  --surface-1: var(--background-800);
+  --surface-2: var(--background-700);
+  --surface-3: var(--background-600);
+  
+  --primary: var(--background-400);
+  --primary-rgb: 146, 160, 146;
+  --primary-dark: var(--background-500);
+  --primary-light: var(--background-300);
+  
+  --secondary: rgb(59, 73, 74);
+  --accent: rgb(84, 94, 105);
+  --accent-rgb: 84, 94, 105;
+  
+  /* Visual hierarchy colors */
+  --shadow-color: rgba(0, 0, 0, 0.25);
+  --inverse-text: var(--background-950);
+  --weekday-color: white;
+  
+  --logo-filter: invert(1) hue-rotate(180deg);
+  --calendar-hover: rgba(92, 160, 92, 0.15);
+  --calendar-exam: var(--background-400);
+  --calendar-exam-hover: var(--background-300);
+  --hover-bg: rgba(255, 255, 255, 0.05);
+}
+
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: transform var(--transition-speed),
+              box-shadow var(--transition-speed);
+}
+
+body {
+  font-family: 'Inter', 'Roboto', sans-serif;
+  background-color: var(--background);
+  color: var(--text);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Theme Toggle Style */
+.theme-toggle {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  margin: 0 10px;
+  border-radius: 50%;
+  transition: background-color 0.2s;
+  overflow: hidden;
+}
+
+.theme-toggle:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.theme-toggle img,
+.theme-toggle svg {
+  width: 22px;
+  height: 22px;
+  color: white;
+  transition: transform 0.5s ease;
+}
+
+/* Add rotation animation when toggling */
+.theme-toggle:active img,
+.theme-toggle:active svg {
+  transform: rotate(360deg);
+}
+
+/* Add a preloading class to prevent transition flashes */
+.theme-preloading * {
+  transition: none !important;
+}
+
+/* Focus styles for accessibility */
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* Calendar dates need instant color changes */
+.calendar-date, 
+.month-block td,
+.has-exam,
+.no-exam,
+.selected {
+  transition: transform 0.2s, box-shadow 0.2s !important;
+  color-transition: none !important;
+}

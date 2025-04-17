@@ -1,0 +1,245 @@
+<header>
+  <div class="logo-container">
+    <img src="assets/icons/upv-logo.svg" alt="UPV Calendar" class="logo">
+    <h1>UPV Exam Calendar</h1>
+  </div>
+  <div class="header-buttons">
+    <button class="header-btn my-calendar-btn" (click)="openMyCalendar()">My Calendar</button>
+    <button class="header-btn login-btn" (click)="openAuthModal()">{{ isLoggedIn ? 'My Account' : 'Login / Register' }}</button>
+    <button class="theme-toggle" (click)="toggleTheme()" [attr.aria-label]="isDarkMode ? 'Switch to light mode' : 'Switch to dark mode'">
+      <svg *ngIf="isDarkMode" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="5"></circle>
+        <line x1="12" y1="1" x2="12" y2="3"></line>
+        <line x1="12" y1="21" x2="12" y2="23"></line>
+        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+        <line x1="1" y1="12" x2="3" y2="12"></line>
+        <line x1="21" y1="12" x2="23" y2="12"></line>
+        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+      </svg>
+      <svg *ngIf="!isDarkMode" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+      </svg>
+    </button>
+  </div>
+</header>
+
+<div class="main-container" (click)="handleDocumentClick($event)">
+  <!-- LEFT COLUMN: FILTERS -->
+  <div class="filters">
+    <h2>Filters</h2>
+    
+    <!-- Degree Dropdown -->
+    <div class="filter-block">
+      <div class="dropdown-filter">
+        <div class="dropdown-header" (click)="toggleDropdown('degree')">
+          <h3 class="filter-title">Degree</h3>
+          <span class="dropdown-arrow" [ngClass]="{'open': openDropdowns.degree}">▼</span>
+        </div>
+        <div class="dropdown-content" [ngClass]="{'open': openDropdowns.degree}">
+          <div class="checkbox-container">
+            <div class="checkbox-item" *ngFor="let degree of degrees">
+              <label class="checkbox-label">
+                <input type="checkbox" [checked]="isSelected(degree, selectedDegrees)" (change)="toggleSelection(degree, selectedDegrees)">
+                <span class="checkbox-text">{{ degree }}</span>
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Semester Dropdown -->
+    <div class="filter-block">
+      <div class="dropdown-filter">
+        <div class="dropdown-header" (click)="toggleDropdown('semester')">
+          <h3 class="filter-title">Semester</h3>
+          <span class="dropdown-arrow" [ngClass]="{'open': openDropdowns.semester}">▼</span>
+        </div>
+        <div class="dropdown-content" [ngClass]="{'open': openDropdowns.semester}">
+          <div class="checkbox-container">
+            <div class="checkbox-item" *ngFor="let semester of semesters">
+              <label class="checkbox-label">
+                <input type="checkbox" [checked]="isSelected(semester, selectedSemesters)" (change)="toggleSelection(semester, selectedSemesters)">
+                <span class="checkbox-text">{{ semester }}</span>
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Subject Dropdown -->
+    <div class="filter-block">
+      <div class="dropdown-filter">
+        <div class="dropdown-header" (click)="toggleDropdown('subject')">
+          <h3 class="filter-title">Subject</h3>
+          <span class="dropdown-arrow" [ngClass]="{'open': openDropdowns.subject}">▼</span>
+        </div>
+        <div class="dropdown-content" [ngClass]="{'open': openDropdowns.subject}">
+          <div class="checkbox-container">
+            <div class="checkbox-item" *ngFor="let subject of subjects">
+              <label class="checkbox-label">
+                <input type="checkbox" [checked]="isSelected(subject, selectedSubjects)" (change)="toggleSelection(subject, selectedSubjects)">
+                <span class="checkbox-text">{{ subject }}</span>
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Calendar Action Buttons -->
+    <div class="calendar-actions">
+      <button class="action-btn save-calendar-btn" (click)="saveCalendar()">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path>
+          <polyline points="17 21 17 13 7 13 7 21"></polyline>
+          <polyline points="7 3 7 8 15 8"></polyline>
+        </svg>
+        Save Calendar
+      </button>
+      
+      <!-- Calendar Export Section -->
+      <div class="export-section">
+        <h3 (click)="toggleExportSection()" [ngClass]="{'collapsed': !showExportOptions}">Export Options</h3>
+        <div class="export-buttons-container" [ngClass]="{'expanded': showExportOptions}">
+          <div class="export-buttons">
+            <button class="export-btn google-btn" (click)="exportToGoogle()" [disabled]="filteredExams.length === 0">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                <line x1="16" y1="2" x2="16" y2="6"></line>
+                <line x1="8" y1="2" x2="8" y2="6"></line>
+                <line x1="3" y1="10" x2="21" y2="10"></line>
+              </svg>
+              <span class="export-tooltip">Export to Google Calendar</span>
+            </button>
+            <button class="export-btn ical-btn" (click)="exportToICal()" [disabled]="filteredExams.length === 0">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                <polyline points="22,6 12,13 2,6"></polyline>
+              </svg>
+              <span class="export-tooltip">Download as .ics file</span>
+            </button>
+          </div>
+          <div class="export-info" *ngIf="filteredExams.length > 0">
+            <small>{{filteredExams.length}} exam(s) will be exported</small>
+          </div>
+          <div class="export-info" *ngIf="filteredExams.length === 0">
+            <small>No exams to export. Adjust filters to see exams.</small>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RIGHT COLUMN: CALENDARS -->
+  <div class="calendars">
+    <div *ngIf="filteredMonths.length === 0" class="no-exams-message">
+      <p>No exams found with the current filters.</p>
+      <p>Try adjusting your filter criteria.</p>
+    </div>
+    
+    <div class="calendar-grid" *ngIf="filteredMonths.length > 0">
+      <!-- Dynamic Calendar Generation - Only show months with exams -->
+      <div class="month-block" *ngFor="let month of filteredMonths">
+        <h3>{{ month.monthName }} {{ month.year }}</h3>
+        <table class="modern-calendar">
+          <thead>
+            <tr>
+              <th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th><th>Sa</th><th>Su</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let week of month.days">
+              <td *ngFor="let day of week" 
+                  [ngClass]="{
+                    'has-exam': day && day.hasExams, 
+                    'no-exam': day && !day.hasExams,
+                    'selected': selectedDate && day && selectedDate.getFullYear() === day.date.getFullYear() && 
+                                selectedDate.getMonth() === day.date.getMonth() && 
+                                selectedDate.getDate() === day.date.getDate()
+                  }"
+                  (click)="selectDate(day, $event)"
+                  class="calendar-date">
+                {{ day ? day.day : '' }}
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  
+  <!-- POPUP for Exams -->
+  <div class="exam-popup" *ngIf="showPopup && selectedDate" [style.top]="popupPosition.top" [style.left]="popupPosition.left">
+    <div class="popup-header">
+      <h3>Exams on {{ selectedDate | date:'mediumDate' }}</h3>
+      <button class="close-popup-btn" (click)="closePopup()">×</button>
+    </div>
+    
+    <div class="popup-content">
+      <div class="no-exams" *ngIf="displayExams.length === 0">
+        No exams scheduled for this date.
+      </div>
+      
+      <div class="exam-items-container">
+        <div class="exam-item" *ngFor="let exam of displayExams">
+          <h4>{{ exam.name }}</h4>
+          <div class="exam-details">
+            <p><span class="detail-label">Course:</span> {{ exam.course }}</p>
+            <p><span class="detail-label">Subject:</span> {{ exam.subject }}</p>
+            <p><span class="detail-label">Time:</span> {{ exam.time }}</p>
+            <p><span class="detail-label">Location:</span> {{ exam.location }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Login/Register Modal -->
+  <div class="modal-overlay" *ngIf="showAuthModal" (click)="closeAuthModal($event)">
+    <div class="auth-modal">
+      <div class="modal-header">
+        <h3>{{ authMode === 'login' ? 'Login' : 'Register' }}</h3>
+        <button class="close-modal-btn" (click)="closeAuthModal($event)">×</button>
+      </div>
+      
+      <div class="modal-content">
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" [(ngModel)]="authForm.email" placeholder="Enter your email">
+        </div>
+        
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" [(ngModel)]="authForm.password" placeholder="Enter your password">
+        </div>
+        
+        <div class="form-group" *ngIf="authMode === 'register'">
+          <label for="confirmPassword">Confirm Password</label>
+          <input type="password" id="confirmPassword" [(ngModel)]="authForm.confirmPassword" placeholder="Confirm your password">
+        </div>
+        
+        <div class="auth-buttons">
+          <button class="auth-btn" (click)="submitAuthForm()">
+            {{ authMode === 'login' ? 'Login' : 'Register' }}
+          </button>
+          
+          <div class="auth-toggle">
+            {{ authMode === 'login' ? "Don't have an account?" : "Already have an account?" }}
+            <a href="#" (click)="toggleAuthMode($event)">
+              {{ authMode === 'login' ? 'Register' : 'Login' }}
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Notification Toast -->
+  <div class="notification-toast" *ngIf="showNotification" [ngClass]="{'success': notificationType === 'success', 'error': notificationType === 'error'}">
+    {{ notificationMessage }}
+  </div>
+</div>

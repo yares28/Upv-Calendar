@@ -1,0 +1,1169 @@
+[1m[33mComponent HMR has been enabled.
+If you encounter application reload issues, you can manually reload the page to bypass HMR and/or disable this feature with the `--no-hmr` command line option.
+Please consider reporting any issues you encounter here: https://github.com/angular/angular-cli/issues
+[39m[22m
+[33m>[39m Building...
+[32m√[39m Building...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m [36m95.35 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m2.04 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m187.59 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-KFNV2YF4.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m [36m95.77 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [2.405 seconds]
+
+Watch mode enabled. Watching for file changes...
+NOTE: Raw file sizes do not reflect development server per-request transformations.
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m [36m95.30 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-SFATPACK.mjs[39m [2m | [22m[2m-[22m          [2m | [22m [36m95.72 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.767 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+
+No output file changes.
+
+Application bundle generation complete. [0.008 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m [2m | [22m[1mRaw size[22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m[2m | [22m [36m2.18 kB[39m[2m | [22m
+
+Application bundle generation complete. [0.017 seconds]
+
+Stylesheet update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+Application bundle generation failed. [0.651 seconds]
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'exportToGoogle' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:105:64:
+[37m      105 │ ...lass="action-btn export-calendar-btn" (click)="[32mexportToGoogle[37m()">
+          ╵                                                   [32m~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:36:15:
+[37m      36 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'exportToICal' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:114:64:
+[37m      114 │ ... class="action-btn export-calendar-btn" (click)="[32mexportToICal[37m()">
+          ╵                                                     [32m~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:36:15:
+[37m      36 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[39m[22m
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m[36m103.55 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m2.18 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m195.93 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-EMS52Z7E.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m[36m103.97 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.662 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m105.78 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-KANCSXMZ.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m106.20 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.934 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m [2m | [22m[1mRaw size[22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m[2m | [22m [36m2.27 kB[39m[2m | [22m
+
+Application bundle generation complete. [0.014 seconds]
+
+Stylesheet update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m107.39 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-VZKIRI2Y.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m107.82 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.492 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m108.30 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-7YLAC5YV.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m108.73 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.536 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m112.35 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-RWAPIBGR.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m112.78 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.664 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+Application bundle generation failed. [0.442 seconds]
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'exportToGoogle' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:108:57:
+[37m      108 │ ...tn google-btn" (click)="[32mexportToGoogle[37m()" [disabled]="filtered...
+          ╵                            [32m~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:36:15:
+[37m      36 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2551: Property 'formatDateForGoogleCalendar' does not exist on type 'LandingComponent'. Did you mean 'formatDateForGoogle'?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:646:40:
+[37m      646 │ ...startDateFormatted = this.[32mformatDateForGoogleCalendar[37m(startDate);
+          ╵                              [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  'formatDateForGoogle' is declared here.
+
+    src/app/landing/landing.component.ts:779:10:
+[37m      779 │   private [32mformatDateForGoogle[37m(date: Date, timeStr: string): string {
+          ╵           [32m~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2551: Property 'formatDateForGoogleCalendar' does not exist on type 'LandingComponent'. Did you mean 'formatDateForGoogle'?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:647:38:
+[37m      647 │ ...nst endDateFormatted = this.[32mformatDateForGoogleCalendar[37m(endDate);
+          ╵                                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  'formatDateForGoogle' is declared here.
+
+    src/app/landing/landing.component.ts:779:10:
+[37m      779 │   private [32mformatDateForGoogle[37m(date: Date, timeStr: string): string {
+          ╵           [32m~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'successCount'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:663:10:
+[37m      663 │           [32msuccessCount[37m++;
+          ╵           [32m~~~~~~~~~~~~[0m
+
+[39m[22m
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+Application bundle generation failed. [0.434 seconds]
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'exportToGoogle' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:108:57:
+[37m      108 │ ...tn google-btn" (click)="[32mexportToGoogle[37m()" [disabled]="filtered...
+          ╵                            [32m~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:36:15:
+[37m      36 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'exportToICal' does not exist on type 'LandingComponent'. Did you mean 'exportToIcal'?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:112:55:
+[37m      112 │ ...t-btn ical-btn" (click)="[32mexportToICal[37m()" [disabled]="filteredE...
+          ╵                             [32m~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:36:15:
+[37m      36 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'semester' does not exist on type 'Exam'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:650:96:
+[37m      650 │ ....course}\nSemester: ${exam.[32msemester[37m}\nLocation: ${exam.locatio...
+          ╵                               [32m~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'notes' does not exist on type 'Exam'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:650:158:
+[37m      650 │ ...Location: ${exam.location || 'TBD'}\nNotes: ${exam.[32mnotes[37m || ''}`;
+          ╵                                                       [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'semester' does not exist on type 'Exam'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:717:96:
+[37m      717 │ ....subject}\\nDegree: ${exam.course}\\nSemester: ${exam.[32msemester[37m}`;
+          ╵                                                          [32m~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'notes' does not exist on type 'Exam'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:719:17:
+[37m      719 │         if (exam.[32mnotes[37m) description += `\\nNotes: ${exam.notes}`;
+          ╵                  [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'notes' does not exist on type 'Exam'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:719:57:
+[37m      719 │         if (exam.notes) description += `\\nNotes: ${exam.[32mnotes[37m}`;
+          ╵                                                          [32m~~~~~[0m
+
+[39m[22m
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+Application bundle generation failed. [0.506 seconds]
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'openMyCalendar' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:7:56:
+[37m      7 │ ...tn my-calendar-btn" (click)="[32mopenMyCalendar[37m()">My Calendar</button>
+        ╵                                 [32m~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:39:15:
+[37m      39 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'saveCalendar' does not exist on type 'LandingComponent'. Did you mean 'savedCalendars'?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:95:60:
+[37m      95 │ ...ton class="action-btn save-calendar-btn" (click)="[32msaveCalendar[37m()">
+         ╵                                                      [32m~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:39:15:
+[37m      39 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'exportToGoogle' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:108:57:
+[37m      108 │ ...tn google-btn" (click)="[32mexportToGoogle[37m()" [disabled]="filtered...
+          ╵                            [32m~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:39:15:
+[37m      39 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'exportToICal' does not exist on type 'LandingComponent'. Did you mean 'exportToIcal'?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:112:55:
+[37m      112 │ ...t-btn ical-btn" (click)="[32mexportToICal[37m()" [disabled]="filteredE...
+          ╵                             [32m~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:39:15:
+[37m      39 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'semester' does not exist on type 'Exam'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:604:96:
+[37m      604 │ ....course}\nSemester: ${exam.[32msemester[37m}\nLocation: ${exam.locatio...
+          ╵                               [32m~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'notes' does not exist on type 'Exam'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:604:158:
+[37m      604 │ ...Location: ${exam.location || 'TBD'}\nNotes: ${exam.[32mnotes[37m || ''}`;
+          ╵                                                       [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'semester' does not exist on type 'Exam'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:671:96:
+[37m      671 │ ....subject}\\nDegree: ${exam.course}\\nSemester: ${exam.[32msemester[37m}`;
+          ╵                                                          [32m~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'notes' does not exist on type 'Exam'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:673:17:
+[37m      673 │         if (exam.[32mnotes[37m) description += `\\nNotes: ${exam.notes}`;
+          ╵                  [32m~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'notes' does not exist on type 'Exam'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:673:57:
+[37m      673 │         if (exam.notes) description += `\\nNotes: ${exam.[32mnotes[37m}`;
+          ╵                                                          [32m~~~~~[0m
+
+[39m[22m
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+Application bundle generation failed. [0.452 seconds]
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'openMyCalendar' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:7:56:
+[37m      7 │ ...tn my-calendar-btn" (click)="[32mopenMyCalendar[37m()">My Calendar</button>
+        ╵                                 [32m~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'saveCalendar' does not exist on type 'LandingComponent'. Did you mean 'savedCalendars'?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:95:60:
+[37m      95 │ ...ton class="action-btn save-calendar-btn" (click)="[32msaveCalendar[37m()">
+         ╵                                                      [32m~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'exportToGoogle' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:108:57:
+[37m      108 │ ...tn google-btn" (click)="[32mexportToGoogle[37m()" [disabled]="filtered...
+          ╵                            [32m~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'exportToICal' does not exist on type 'LandingComponent'. Did you mean 'exportToIcal'?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:112:55:
+[37m      112 │ ...t-btn ical-btn" (click)="[32mexportToICal[37m()" [disabled]="filteredE...
+          ╵                             [32m~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[39m[22m
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+Application bundle generation failed. [0.403 seconds]
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'openMyCalendar' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:7:56:
+[37m      7 │ ...tn my-calendar-btn" (click)="[32mopenMyCalendar[37m()">My Calendar</button>
+        ╵                                 [32m~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'saveCalendar' does not exist on type 'LandingComponent'. Did you mean 'savedCalendars'?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:95:60:
+[37m      95 │ ...ton class="action-btn save-calendar-btn" (click)="[32msaveCalendar[37m()">
+         ╵                                                      [32m~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'exportToGoogle' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:108:57:
+[37m      108 │ ...tn google-btn" (click)="[32mexportToGoogle[37m()" [disabled]="filtered...
+          ╵                            [32m~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG1: Property 'exportToICal' does not exist on type 'LandingComponent'. Did you mean 'exportToIcal'?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:112:55:
+[37m      112 │ ...t-btn ical-btn" (click)="[32mexportToICal[37m()" [disabled]="filteredE...
+          ╵                             [32m~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[39m[22m
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m[36m113.50 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m2.27 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m205.97 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-XONPBJCN.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m[36m113.93 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.447 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m[36m113.50 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m2.27 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m205.97 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-XONPBJCN.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m[36m113.93 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.280 seconds]
+
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+Application bundle generation failed. [0.367 seconds]
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'number[]' is not assignable to type 'string[]'.
+  Type 'number' is not assignable to type 'string'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:776:8:
+[37m      776 │         [32msemesters[37m: this.selectedSemesters.map(s => parseInt(s) ||...
+          ╵         [32m~~~~~~~~~[0m
+
+  The expected type comes from property 'semesters' which is declared here on type '{ degrees: string[]; semesters: string[]; subjects: string[]; }'
+
+    src/app/landing/landing.component.ts:24:4:
+[37m      24 │     [32msemesters[37m: string[];
+         ╵     [32m~~~~~~~~~[0m
+
+[39m[22m
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m[36m113.48 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m2.27 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m205.94 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-4EWVOZN6.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m[36m113.90 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.392 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m113.46 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-W7Y4DEG7.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m113.88 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.349 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m113.47 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-7S6YKFF3.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m113.89 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.334 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m[36m113.47 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m2.27 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m205.93 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-7S6YKFF3.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m[36m113.89 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.015 seconds]
+
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m113.47 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-TCDYLBCI.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m113.89 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.298 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m113.73 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-457F7QUA.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m114.15 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.539 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m [2m | [22m[1mRaw size[22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m[2m | [22m [36m2.35 kB[39m[2m | [22m
+
+Application bundle generation complete. [0.009 seconds]
+
+Stylesheet update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m113.84 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-OD3UZBNU.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m114.27 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.523 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m[36m113.84 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m2.35 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m206.40 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-OD3UZBNU.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m[36m114.27 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.497 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m115.10 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-7H2U2MD5.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m115.53 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.516 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+Application bundle generation failed. [0.396 seconds]
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'toggleExportSection' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:106:21:
+[37m      106 │         <h3 (click)="[32mtoggleExportSection[37m()" [ngClass]="{'collapse...
+          ╵                      [32m~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'showExportOptions' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:106:70:
+[37m      106 │ ...[ngClass]="{'collapsed': ![32mshowExportOptions[37m}">Export Options</h3>
+          ╵                              [32m~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'showExportOptions' does not exist on type 'LandingComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.html:107:70:
+[37m      107 │ ...t-buttons-container" [ngClass]="{'expanded': [32mshowExportOptions[37m}">
+          ╵                                                 [32m~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component LandingComponent.
+
+    src/app/landing/landing.component.ts:41:15:
+[37m      41 │   templateUrl: [32m'./landing.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[39m[22m
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m[36m117.41 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m2.35 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m209.96 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-GYG6WAOX.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m[36m117.84 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.487 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m [2m | [22m[1mRaw size[22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m[2m | [22m [36m2.38 kB[39m[2m | [22m
+
+Application bundle generation complete. [0.013 seconds]
+
+Stylesheet update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+Application bundle generation failed. [0.467 seconds]
+
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2353: Object literal may only specify known properties, and 'transformOrigin' does not exist in type '{ top: string; left: string; }'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/landing/landing.component.ts:360:6:
+[37m      360 │       [32mtransformOrigin[37m: `${originX} ${originY}`
+          ╵       [32m~~~~~~~~~~~~~~~[0m
+
+[39m[22m
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m[36m117.76 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m2.38 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m210.34 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-F27DL7AA.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m[36m118.18 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.587 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m116.30 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-K565FOKO.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m116.73 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.614 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m117.44 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-6G22MNDY.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m117.86 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.694 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m117.97 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-PVWVLNSQ.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m118.39 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.607 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m118.06 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-RXX6B5BQ.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m118.48 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.480 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m [2m | [22m[1mRaw size[22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m[2m | [22m [36m3.02 kB[39m[2m | [22m
+
+Application bundle generation complete. [0.013 seconds]
+
+Stylesheet update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m120.41 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-3VVUDDM5.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m120.83 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.527 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m121.44 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-46XEUCSQ.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m121.86 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.530 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m122.24 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-QSTXXBLR.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m122.66 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.599 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m123.30 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-O2FPWGNS.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m123.73 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.534 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m123.96 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-QBLGOUSQ.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m124.39 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.602 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m[36m123.96 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m3.02 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m217.18 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-QBLGOUSQ.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m[36m124.39 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.547 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m118.06 kB[39m[2m | [22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m     [2m | [22m  [36m2.38 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-RXX6B5BQ.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m118.48 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.483 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m [2m | [22m[1mRaw size[22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m[2m | [22m [36m3.27 kB[39m[2m | [22m
+
+Application bundle generation complete. [0.009 seconds]
+
+Stylesheet update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m118.54 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-C3EMG2BT.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m118.96 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.438 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m118.59 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-LE254T4R.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m119.01 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.416 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m118.59 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-MCCNYXLJ.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m119.01 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.550 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m118.73 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-PMUE3TYZ.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m119.15 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.629 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m118.66 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-724WYV53.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m119.09 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.490 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m     
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mmain.js[39m             [2m | [22m[2mmain[22m            [2m | [22m[36m118.66 kB[39m[2m | [22m
+[32mpolyfills.js[39m        [2m | [22m[2mpolyfills[22m       [2m | [22m [36m90.20 kB[39m[2m | [22m
+[32mstyles.css[39m          [2m | [22m[2mstyles[22m          [2m | [22m  [36m3.27 kB[39m[2m | [22m
+
+[1m [22m                   [2m | [22m[1mInitial total[22m   [2m | [22m[1m212.13 kB[22m
+
+
+[35mServer bundles[39m      
+[1mInitial chunk files[22m [2m | [22m[1mNames[22m           [2m | [22m [1mRaw size[22m
+[32mpolyfills.server.mjs[39m[2m | [22m[2mpolyfills.server[22m[2m | [22m[36m570.97 kB[39m[2m | [22m
+[32mchunk-724WYV53.mjs[39m  [2m | [22m[2m-[22m               [2m | [22m[36m119.09 kB[39m[2m | [22m
+[32mserver.mjs[39m          [2m | [22m[2mserver[22m          [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m     [2m | [22m[2mmain.server[22m     [2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.505 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m118.73 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-PMUE3TYZ.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m119.15 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.537 seconds]
+
+Page reload sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[35mBrowser bundles[39m    
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m       [2m | [22m[36m118.70 kB[39m[2m | [22m
+
+
+[35mServer bundles[39m     
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m      [2m | [22m [1mRaw size[22m
+[32mchunk-AR2DSOXU.mjs[39m [2m | [22m[2m-[22m          [2m | [22m[36m119.12 kB[39m[2m | [22m
+[32mserver.mjs[39m         [2m | [22m[2mserver[22m     [2m | [22m  [36m1.39 kB[39m[2m | [22m
+[32mmain.server.mjs[39m    [2m | [22m[2mmain.server[22m[2m | [22m[36m800 bytes[39m[2m | [22m
+
+Application bundle generation complete. [0.460 seconds]
+
+Component update sent to client(s).
+[33m>[39m Changes detected. Rebuilding...
+[32m√[39m Changes detected. Rebuilding...
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m [2m | [22m[1mRaw size[22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m[2m | [22m [36m3.32 kB[39m[2m | [22m
+
+Application bundle generation complete. [0.009 seconds]
+
+Stylesheet update sent to client(s).
