@@ -1,0 +1,987 @@
+	Day	Hour	Duration
+(min)	Code	Subject	Acronym	Degree	Year	Semester	Place	Comment
+26/09/2024	08:00	30	11604	Business models and company functional areas	MNE	GIINF	4	A	ETS DE INGENIERÍA INFORMÁTICA	1 parcial online
+14/10/2024	09:00	120	11566	Software analysis, validation and debugging	AVD	GIINF	4	A	1G 1.7	Primer parcial
+23/10/2024	08:00	300	11470	Mathematics I	MAT.I	GCD-GIOI	1	A	031, 032, 033	
+23/10/2024	15:00	300	11476	Industrial Business and Economy	EMPR.	GCD-GIOI	2	A	014	
+23/10/2024	17:30	120	33427	Enterprise resource planning	GIN	MUIINF	2	A	ETS DE INGENIERÍA INFORMÁTICA	1er parcial (Presencial) Se realiza en el aula de clase.
+24/10/2024	08:00	30	11604	Business models and company functional areas	MNE	GIINF	4	A	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial online
+24/10/2024	09:30	90	14547	Intelligent Systems	SIN	GIIROB	3	A	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial pr¿cticas. Grupo L2. Dos turnos de 45 min.
+24/10/2024	11:00	90	14547	Intelligent Systems	SIN	GIIROB	3	A	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial prácticas. Grupo L1. Dos turnos de 45 min.
+24/10/2024	18:30	150	33416	IT Project Planning and Management	PDP	MUIINF	1	A	ETS DE INGENIERÍA INFORMÁTICA	Bloque I. Presentación de trabajo
+25/10/2024	15:00	300	11477	Automatic Control Systems	SA	GCD-GIOI	2	A	031, 032	
+25/10/2024	17:15	90	33416	IT Project Planning and Management	PDP	MUIINF	1	A	ETS DE INGENIERÍA INFORMÁTICA	Bloque I. Examen online.
+28/10/2024	08:00	300	11475	TECHNICAL DRAWING	EXPR.G	GCD-GIOI	2	A	521,Aula 522	
+28/10/2024	09:30	90	11562	Concurrency and Distributed Systems	CSD	GIINF-GADE	3	A	1G 1.7	Primer Parcial
+29/10/2024	15:00	300	11488	Production and Manufacturing Systems	SPF	GCD-GIOI	2	A		
+31/10/2024	08:00	300	11472	Physics I	FIS I	GCD-GIOI	1	A		
+31/10/2024	15:00	300	11481	Material Science	C.MAT.	GCD-GIOI	2	A		
+05/11/2024	15:00	300	11485	Thermodynamics	TER	GCD-GIOI	2	A		
+06/11/2024	15:30	150	33430	Computer Networks and Security	RSE	MUIINF	1	A	ETS DE INGENIERÍA INFORMÁTICA	Test para todo el alumnado. Examen solo para alumnos con dispensa. En lab.
+07/11/2024	08:00	300	11473	Chemistry	QUIM.	GCD-GIOI	1	A		
+07/11/2024	15:00	300	11486	Fundamentals of business Management	FOE	GCD-GIOI	2	A		
+12/11/2024	19:30	120	33424	Automation and Robotics	ARO	MUIINF	2	A	ETS DE INGENIERÍA INFORMÁTICA	Entrega trabajo y examen del primer parcial. En el lab. de clase
+28/11/2024	08:00	90	11604	Business models and company functional areas	MNE	GIINF	4	A	ETS DE INGENIERÍA INFORMÁTICA	Tercer parcial online
+09/12/2024	12:30	90	14000	Discrete Mathematics	MAD	GCD	1	A	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas 1CDA2
+09/12/2024	15:00	90	14000	Discrete Mathematics	MAD	GCD	1	A	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas 1CDB1
+10/12/2024	11:30	90	11556	Human-Computer Interfaces	IPC	GIINF-GADE	3	A	ETS DE INGENIERÍA INFORMÁTICA	Examen de pr¿cticas GIA1. Se realiza en lab. de clase.
+10/12/2024	15:30	60	33415	IT Governance	GGO	MUIINF	1	A	1G 0.2	
+10/12/2024	16:30	110	34128	Ethics and digital citizenship	ECD	MUHD	1	A	ETS DE INGENIERÍA INFORMÁTICA	Examen. Se realiza en aula de clase
+11/12/2024	08:00	90	11562	Concurrency and Distributed Systems	CSD	GIINF-GADE	3	A	1G 1.7	Segundo Parcial
+11/12/2024	12:00	90	14000	Discrete Mathematics	MAD	GCD	1	A	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas 1CDA1
+11/12/2024	15:00	90	14000	Discrete Mathematics	MAD	GCD	1	A	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas 1CDB2
+11/12/2024	16:30	180	13867	Mathematical Models for Business Administration I	MADE I	GIINF-GADE	1	A	1.1, 1.2, 1.3, 1.4, 1.5	A1
+11/12/2024	18:00	120	11600	Management and configuration of information system's architecture	GCA	GIINF-GADE	5	A	L. 1B 0.2 - R. STALLMAN,L. 1B 0.3 - G. HOPPER	Parcial en laboratorio
+12/12/2024	15:00	150	11539	Statistics	EST	GIINF-GADE	1	A	1G 0.3	Primer parcial
+12/12/2024	18:30	150	33416	IT Project Planning and Management	PDP	MUIINF	1	A	ETS DE INGENIERÍA INFORMÁTICA	Bloque II.Presentación de trabajo y examen. En el aula.
+13/12/2024	10:30	90	11556	Human-Computer Interfaces	IPC	GIINF-GADE	3	A	ETS DE INGENIERÍA INFORMÁTICA	Examen de prácticas GIA2. Se realiza en lab. de clase
+13/12/2024	15:00	180	11739	Macroeconomics I	MACR I	GIINF-GADE	2	A	1.1, 1.2, 1.3, 1.4, 1.5	A1
+16/12/2024	08:00	300	11472	Physics I	FIS I	GCD-GIOI	1	A	023, 024, 025	
+16/12/2024	09:00	150	14526	Introducción a la Programación	IPR	GIIROB	1	A	1G 1.7	Primer parcial
+16/12/2024	10:00	150	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Primer parcial
+16/12/2024	10:00	150	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GADE	2	A	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial. Se realiza junto al alumnado de GIINF
+16/12/2024	11:00	120	14547	Intelligent Systems	SIN	GIIROB	3	A	1E 1.1, 1E 1.2	Primer parcial
+16/12/2024	11:00	180	11752	Financial Economics	EF	GIINF-GADE	5	A	1E 0.0	A1
+16/12/2024	11:00	150	11649	Cryptography	CRI	GIINF	4	A	LAB. DSIC 7,LAB. DSIC 8	Primer parcial
+16/12/2024	11:30	45	14526	Introducción a la Programación	IPR	GIIROB	1	A	1G 1.7	Examen pr¿cticas.
+16/12/2024	12:45	90	13997	Fundamentals of business management	FOE	GCD	1	A	1G 1.5, 1G 1.7	Primer parcial
+16/12/2024	15:00	120	11542	Computer Fundamentals	FCO	GIINF	1	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.3, 1G 1.4,Aula 1G 0.8	Primer parcial
+16/12/2024	15:00	150	14025	Optimization	OPT	GCD	4	A	1G 1.7	Primer parcial
+16/12/2024	15:00	90	14006	Statistical models for decision-making II	MET II	GCD	2	A	1E 0.0, 1E 0.1, 1E 0.2	Primer parcial.
+16/12/2024	15:00	150	11542	Computer Fundamentals	FCO	GIINF-GADE	1	A	L. 1B 0.2 - R. STALLMAN,L. 1B 0.3 - G. HOPPER,L. 1B 0.4 - E. DIJKSTRA	Primer parcial
+16/12/2024	15:00	120	11556	Human-Computer Interfaces	IPC	GIINF-GADE	3	A	1G 0.7	Primer parcial
+16/12/2024	15:00	300	11488	Production and Manufacturing Systems	SPF	GCD-GIOI	2	A	024, 025	
+16/12/2024	15:00	180	14552	Industrial Instrumentation and Sensors	IIS	GIIROB	2	A	1E 1.1, 1E 1.2	Primer parcial teor¿a
+16/12/2024	17:30	120	11542	Computer Fundamentals	FCO	GIINF-GMAT	1	A	1G 1.0	Primer parcial.
+16/12/2024	18:00	120	11548	Databases and information systems	BDA	GIINF	3	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4	Primer parcial
+16/12/2024	18:00	120	11548	Databases and information systems	BDA	GIINF-GADE	4	A	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial. Mismas aulas GIINF.
+17/12/2024	09:00	60	14002	Programming Fundamentals	FPR	GCD-GIOI	1	A	1E 2.1, 1E 2.2, 1E 2.3	Primer parcial teor¿a.
+17/12/2024	09:00	60	14002	Programming Fundamentals	FPR	GCD	1	A	1E 2.1, 1E 2.2, 1E 2.3	Primer parcial teor¿a.
+17/12/2024	09:30	150	11561	Operating System Fundamentals	FSO	GIINF-GADE	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.5, 1G 1.7,Aula 1G 0.8	Primer parcial
+17/12/2024	09:30	150	11561	Operating System Fundamentals	FSO	GIINF	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.5, 1G 1.7,Aula 1G 0.8	Primer parcial
+17/12/2024	09:30	150	11561	Operating System Fundamentals	FSO	GIINF-GMAT	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.5, 1G 1.7,Aula 1G 0.8	Primer parcial
+17/12/2024	10:00	150	14532	Fundamentos de Organización de Empresas	FOE	GIIROB	1	A	1E 0.1, 1E 0.2	Primer parcial
+17/12/2024	10:00	135	11595	Quality and Optimization	COP	GIINF	4	A	1E 0.3	Primer parcial
+17/12/2024	10:15	120	14002	Programming Fundamentals	FPR	GCD-GIOI	1	A	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3	Examen de pr¿cticas. Dos turnos.
+17/12/2024	10:15	120	14002	Programming Fundamentals	FPR	GCD	1	A	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3	Examen de pr¿cticas. Dos turnos.
+17/12/2024	11:00	150	11580	Tecnologías avanzadas para redes corporativas y Datacenters	TRD	GIINF	4	A	1E 2.1	Primer parcial + test de pr¿cticas
+17/12/2024	11:00	90	14011	Predictive and descriptive models II	MDP II	GCD	3	A	1E 1.2, 1E 1.3, 1E 1.4	Primer parcial
+17/12/2024	11:00	120	14544	Human-Machine Interfaces	IHM	GIIROB	3	A	1G 1.4	Primer parcial
+17/12/2024	11:00	150	11601	Organisational behaviour and change management	COR	GIINF-GADE	5	A	1E 1.1	Primer parcial
+17/12/2024	12:15	150	11590	Programing Languages and Compilers	LPPL	GIINF	4	A	1G 1.1, 1G 1.2	Primer parcial
+17/12/2024	12:15	180	11566	Software analysis, validation and debugging	AVD	GIINF	4	A	1G 1.7	Parcial
+17/12/2024	12:30	120	11609	Corporate Networks	RCO	GIINF	4	A	1G 0.4, 1G 0.5	Primer parcial
+17/12/2024	12:45	90	14011	Predictive and descriptive models II	MDP II	GCD	3	A	1E 1.2, 1E 1.3, 1E 1.4	Prueba pr¿ctica semana
+17/12/2024	15:00	120	14530	Statistics	EST	GIIROB	2	A	1E 2.1, 1E 2.2	Primer parcial de teoría
+17/12/2024	15:00	300	11481	Material Science	C.MAT.	GCD-GIOI	2	A	031, 032	
+17/12/2024	15:30	120	14026	Databases	BDA	GCD	2	A	1G 1.5, 1G 1.7	Parcial
+17/12/2024	15:30	165	11541	Introduction to Computer Science and Programming	IIP	GIINF-GADE	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8,LAB. DSIC 1,LAB. DSIC 2	Pr¿cticas: 1h+15 min descanso+ Parcial 1 Teor¿a: 1h 30'
+17/12/2024	15:30	165	11541	Introduction to Computer Science and Programming	IIP	GIINF	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8,LAB. DSIC 1,LAB. DSIC 2	Pr¿cticas: 1h+15 min descanso+ Parcial 1 Teor¿a: 1h 30'
+17/12/2024	18:00	60	34132	Administrative Information and Documentation	GPD	MUHD	1	A	L. 1G 0.0 - A. BORG	Examen final
+17/12/2024	18:30	150	11553	Computer architecture and engineering	AIC	GIINF-GADE	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Primer parcial
+17/12/2024	18:30	150	11553	Computer architecture and engineering	AIC	GIINF	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Primer parcial
+17/12/2024	19:30	120	33424	Automation and Robotics	ARO	MUIINF	2	A	ETS DE INGENIERÍA INFORMÁTICA	Entrega trabajo y examen del segundo parcial. En el lab. de clase
+18/12/2024	09:00	150	11540	Physics Foundations on Computer Science	FFI	GIINF-GADE	1	A	1G 0.1, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7,Aula 1G 0.8	Primer parcial
+18/12/2024	09:00	150	11540	Physics Foundations on Computer Science	FFI	GIINF	1	A	1G 0.1, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7,Aula 1G 0.8	Primer parcial
+18/12/2024	10:00	150	14000	Discrete Mathematics	MAD	GCD	1	A	1E 2.1, 1E 2.2, 1E 2.3	Primer parcial
+18/12/2024	10:00	120	14524	Algebra and Geometry	AGE	GIIROB	1	A	1E 0.2, 1E 0.3	Primer parcial
+18/12/2024	10:00	90	11575	Computación en la Nube y de Altas Prestaciones	CNA	GIINF	4	A	LAB. DSIC 4	Test
+18/12/2024	10:00	90	11593	Algorithmics	ALT	GIINF	4	A	1G 0.3, 1G 0.4	Primer parcial teor¿a
+18/12/2024	11:00	150	11596	Design and management of databases	DBD	GIINF	4	A	1E 1.3, 1E 1.4	Primer parcial
+18/12/2024	11:00	150	11596	Design and management of databases	DBD	GIINF-GADE	5	A	1E 1.3, 1E 1.4	Primer parcial
+18/12/2024	11:00	90	14542	Industrial Logistics and Optimization	LIO	GIIROB	3	A	1E 0.0, 1E 0.1	Primer parcial
+18/12/2024	12:00	60	11593	Algorithmics	ALT	GIINF	4	A	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Primer parcial pr¿cticas labs dsic
+18/12/2024	12:00	120	11564	Automata Theory and Formal Languages	TAL	GIINF	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Primer parcial
+18/12/2024	12:00	120	11564	Automata Theory and Formal Languages	TAL	GIINF-GADE	3	A	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial. Se realiza junto al alumnado de GIINF
+18/12/2024	12:45	90	14542	Industrial Logistics and Optimization	LIO	GIIROB	3	A	1E 0.1	Defensa trabajo acad¿mico
+18/12/2024	15:00	90	11563	Network information system technology	TSR	GIINF-GADE	4	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.7,Aula 1G 0.8	Prácticas.
+18/12/2024	15:00	120	34129	Open Data and Quantitative Analysis for Humanists	DAAC	MUHD	1	A	L. 1G 0.0 - A. BORG	Examen final
+18/12/2024	15:00	90	11563	Network information system technology	TSR	GIINF	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.7,Aula 1G 0.8	Prácticas.
+18/12/2024	15:00	150	14008	Data Structures	EDA	GCD	2	A	1G 1.1, 1G 1.2, 1G 1.4	Primer parcial
+18/12/2024	17:00	90	11563	Network information system technology	TSR	GIINF	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.7,Aula 1G 0.8	Primer parcial
+18/12/2024	17:00	90	11563	Network information system technology	TSR	GIINF-GADE	4	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.7,Aula 1G 0.8	Primer parcial
+18/12/2024	17:30	120	33427	Enterprise resource planning	GIN	MUIINF	2	A	ETS DE INGENIERÍA INFORMÁTICA	2o parcial y presentación trabajos (Presencial) . En el aula de la clase.
+18/12/2024	18:00	60	14008	Data Structures	EDA	GCD	2	A	LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 4,LAB. DSIC 5,LAB. DSIC 7,LAB. DSIC 8	Parcial prácticas.
+18/12/2024	18:00	120	14032	Image and video analytics	AIV	GCD	4	A	1E 0.0	Primer parcial
+19/12/2024	09:30	90	14004	Exploratory data analysis	AED	GCD-GIOI	1	A	1E 0.1, 1E 0.2, 1E 0.3	Primer parcial
+19/12/2024	09:30	90	14004	Exploratory data analysis	AED	GCD	1	A	1E 0.1, 1E 0.2, 1E 0.3	Primer parcial
+19/12/2024	10:00	180	14544	Human-Machine Interfaces	IHM	GIIROB	3	A	LAB. DSIC 2,LAB. DSIC 3	Examen pr¿cticas.Dos turnos.
+19/12/2024	10:00	150	11552	Computer Organization	ETC	GIINF-GADE	2	A	1G 0.1, 1G 0.2, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Parcial 1A
+19/12/2024	10:00	150	11552	Computer Organization	ETC	GIINF	2	A	1G 0.1, 1G 0.2, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Parcial 1A
+19/12/2024	10:00	150	11552	Computer Organization	ETC	GIINF-GMAT	2	A	1G 0.1, 1G 0.2, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Parcial 1A
+19/12/2024	10:00	150	14528	Principles of Computers	PRC	GIIROB	1	A	L. 1G 1.1 - T. QUEVEDO,L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Primer Parcial
+19/12/2024	11:00	150	11599	Strategic Information Systems	SIE	GIINF-GADE	5	A	1G 0.3	Primer parcial
+19/12/2024	11:00	180	11592	Techniques, tools and applications of artificial intelligence	TIA	GIINF	4	A	LAB. DSIC 4,LAB. DSIC 5,LAB. DSIC 7,LAB. DSIC 8	Examen pr¿cticas en labs dsic.
+19/12/2024	11:00	90	11577	Programación de Sistemas Distribuidos	PSD	GIINF	4	A	Aula 1G 0.8	Parcial
+19/12/2024	11:00	150	11599	Strategic Information Systems	SIE	GIINF	4	A	1G 0.3	Primer parcial
+19/12/2024	15:00	300	11485	Thermodynamics	TER	GCD-GIOI	2	A	011, 012	
+19/12/2024	15:00	90	11755	Labour Law	DT	GIINF-GADE	3	A	1E 2.1	A1
+19/12/2024	15:00	120	14555	Robot programming	PRR	GIIROB	2	A	1E 1.1, 1E 1.2	Primer parcial
+19/12/2024	15:00	150	11547	Discrete Mathematics	MAD	GIINF	1	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Primer parcial
+19/12/2024	15:00	150	14012	Economic and social behavior	CES	GCD	2	A	1G 1.5, 1G 1.7	Primer parcial
+19/12/2024	15:00	150	11547	Discrete Mathematics	MAD	GIINF-GADE	1	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Primer parcial
+19/12/2024	18:00	150	11560	Intelligent Systems	SIN	GIINF	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.5	Segundo parcial
+19/12/2024	18:00	150	11560	Intelligent Systems	SIN	GIINF-GADE	4	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.5	Segundo parcial
+20/12/2024	08:00	300	11473	Chemistry	QUIM.	GCD-GIOI	1	A	211, 212, 214	
+20/12/2024	10:00	90	11584	Programación de Sistemas Empotrados	PSE	GIINF	4	A	Aula 1G 0.8	Parcial
+20/12/2024	10:00	150	11603	Integrated Information Systems in Organizations	SIO	GIINF-GADE	5	A	1E 1.2, 1E 1.3	Primer parcial
+20/12/2024	10:00	150	14525	Mathematical Analysis	AMA	GIIROB	1	A	1G 1.7	Primer Parcial
+20/12/2024	10:00	150	11594	Machine Learning	APR	GIINF	4	A	1E 0.1, 1E 0.2	Primer parcial
+20/12/2024	10:00	120	11615	English for Computing (B1)	IN1	GIINF	2	A	1G 0.1, 1G 0.4	Parcial
+20/12/2024	10:00	150	11603	Integrated Information Systems in Organizations	SIO	GIINF	4	A	1E 1.2, 1E 1.3	Primer parcial
+20/12/2024	10:00	150	13999	Mathematical Analysis	AMA	GCD	1	A	1G 1.1, 1G 1.2, 1G 1.4	Primer parcial
+20/12/2024	10:00	150	11544	Computer Technology.	TCO	GIINF-GADE	2	A	1G 0.3	Primer parcial
+20/12/2024	11:00	90	14537	Computer Vision	VCO	GIIROB	3	A	1G 0.5, 1G 0.6	Primer parcial
+20/12/2024	11:00	150	14013	Digital Economy	EDIG	GCD	3	A	1E 2.1, 1E 2.2, 1E 2.3	Primer parcial
+20/12/2024	12:45	90	11616	English for Computing (B2)	IN2	GIINF	2	A	1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Parcial
+20/12/2024	15:00	150	11551	Data Structures and Algorithms	EDA	GIINF-GADE	3	A	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial.
+20/12/2024	15:00	150	11545	Mathematical Analysis	AMA	GIINF	1	A	1G 0.1, 1G 0.2, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.4, 1G 1.7	Primer parcial
+20/12/2024	15:00	150	11551	Data Structures and Algorithms	EDA	GIINF-GMAT	3	A	1G 0.3	Primer parcial. Se realiza junto a los alumnos de la doble con ADE.
+20/12/2024	15:00	300	11486	Fundamentals of business Management	FOE	GCD-GIOI	2	A	012, 013	
+20/12/2024	15:00	150	14015	Data acquisition and transmission	ATD	GCD	2	A	1E 2.1, 1E 2.2, 1E 2.3	Primer parcial teor¿a.
+20/12/2024	15:00	120	14543	Programación Avanzada	PRA	GIIROB	2	A	1E 0.0, 1E 0.1	Primer parcial
+20/12/2024	15:00	120	14538	Operating Systems	SOP	GIIROB	2	A	1G 1.1, 1G 1.2	Primer parcial
+20/12/2024	18:00	150	11549	Parallel computing	CPA	GIINF	3	A	1G 0.1, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Primer parcial
+20/12/2024	18:00	90	14015	Data acquisition and transmission	ATD	GCD	2	A	1E 2.1, 1E 2.2, 1E 2.3	Examen pr¿cticas.
+20/12/2024	18:00	150	14009	Scalable Machine Learning techniques	TEAA	GCD	4	A	1G 0.3	Primer parcial
+20/12/2024	18:00	150	11549	Parallel computing	CPA	GIINF-GADE	4	A	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial. Mismo GIINF.
+07/01/2025	08:00	150	11540	Physics Foundations on Computer Science	FFI	GIINF-GADE	1	A	1G 0.1, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7,Aula 1G 0.8	Segundo parcial
+07/01/2025	08:00	300	11476	Industrial Business and Economy	EMPR.	GCD-GIOI	2	A	Aula 217	
+07/01/2025	08:00	150	11540	Physics Foundations on Computer Science	FFI	GIINF	1	A	1G 0.1, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7,Aula 1G 0.8	Segundo parcial
+07/01/2025	08:00	150	14532	Fundamentos de Organización de Empresas	FOE	GIIROB	1	A	1E 0.1, 1E 0.2	Segundo parcial
+07/01/2025	11:00	150	11544	Computer Technology.	TCO	GIINF-GADE	2	A	1G 0.5, 1G 0.6	Segundo parcial
+07/01/2025	11:00	150	11548	Databases and information systems	BDA	GIINF-GADE	4	A	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial. Mismas aulas GIINF.
+07/01/2025	11:00	150	11548	Databases and information systems	BDA	GIINF	3	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+07/01/2025	11:00	150	14016	Infrastructure for data processing	IPD	GCD	3	A	1G 1.5, 1G 1.7	Final
+07/01/2025	15:00	120	11564	Automata Theory and Formal Languages	TAL	GIINF-GADE	3	A	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial. Se realiza junto al alumnado de GIINF
+07/01/2025	15:00	120	11564	Automata Theory and Formal Languages	TAL	GIINF	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Segundo parcial
+07/01/2025	15:00	120	14543	Programación Avanzada	PRA	GIIROB	2	A	1E 0.0, 1E 0.1	Segundo parcial
+07/01/2025	15:00	300	11470	Mathematics I	MAT.I	GCD-GIOI	1	A	033, 034, 035	
+07/01/2025	17:30	150	34611	Tools for Digital Communication	HCD	MUHD	1	A	L. 1G 1.2 - A. TURING	Defensa y entrega de trabajos.
+07/01/2025	18:00	120	11592	Techniques, tools and applications of artificial intelligence	TIA	GIINF	4	A	1G 1.1, 1G 1.2	Examen final
+07/01/2025	18:00	150	11570	Requirements Analysis and Specification	AER	GIINF	4	A	1G 1.7	Examen final
+07/01/2025	18:00	120	11599	Strategic Information Systems	SIE	GIINF	4	A	1G 0.3	Segundo parcial
+07/01/2025	18:00	120	14032	Image and video analytics	AIV	GCD	4	A	1E 1.1	Segundo parcial
+07/01/2025	18:00	120	11599	Strategic Information Systems	SIE	GIINF-GADE	5	A	1G 0.3	Segundo parcial
+08/01/2025	08:00	300	11477	Automatic Control Systems	SA	GCD-GIOI	2	A	013, 014	
+08/01/2025	08:00	270	11564	Automata Theory and Formal Languages	TAL	GIINF	2	A	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 4,LAB. DSIC 5,LAB. DSIC 7,LAB. DSIC 8	Examen prácticas.
+08/01/2025	08:00	270	11564	Automata Theory and Formal Languages	TAL	GIINF-GADE	3	A	ETS DE INGENIERÍA INFORMÁTICA	Examen pr¿cticas. Se realiza en los labs del dsic 0,1,2,3,4,5,6,7,8
+08/01/2025	11:00	150	11603	Integrated Information Systems in Organizations	SIO	GIINF	4	A	1G 1.4	Segundo parcial
+08/01/2025	11:00	150	14009	Scalable Machine Learning techniques	TEAA	GCD	4	A	1G 0.3	Segundo parcial
+08/01/2025	11:00	90	14542	Industrial Logistics and Optimization	LIO	GIIROB	3	A	1E 0.0, 1E 0.1	Segundo parcial
+08/01/2025	11:00	180	11574	Software Engineering Project	PIN	GIINF	4	A	1G 0.4, 1G 0.7	Examen final
+08/01/2025	11:00	150	11603	Integrated Information Systems in Organizations	SIO	GIINF-GADE	5	A	1G 1.4	Segundo parcial
+08/01/2025	12:15	120	11544	Computer Technology.	TCO	GIINF-GADE	2	A	Lab. Tecnología de Computadores (2N-15)	Recuperación de prácticas
+08/01/2025	12:45	90	14542	Industrial Logistics and Optimization	LIO	GIIROB	3	A	1E 0.1	Defenda trabajo académico
+08/01/2025	15:00	150	11560	Intelligent Systems	SIN	GIINF	3	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Primer parcial
+08/01/2025	15:00	150	11551	Data Structures and Algorithms	EDA	GIINF-GMAT	3	A	1E 1.1	Segundo parcial
+08/01/2025	15:00	150	11560	Intelligent Systems	SIN	GIINF-GADE	4	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Primer parcial
+08/01/2025	15:30	90	13997	Fundamentals of business management	FOE	GCD	1	A	1G 1.5, 1G 1.7	Segundo parcial
+08/01/2025	17:30	150	14012	Economic and social behavior	CES	GCD	2	A	1G 1.5, 1G 1.7	Segundo parcial.
+08/01/2025	17:30	150	34130	Alfabetización Digital en Humanidades	ADH	MUHD	1	A	1E 0.0	Defensa y entrega de trabajos
+08/01/2025	18:00	180	11592	Techniques, tools and applications of artificial intelligence	TIA	GIINF	4	A	LAB. DSIC 4,LAB. DSIC 5,LAB. DSIC 6,LAB. DSIC 7	Examen prácticas en labs dsic.
+08/01/2025	18:00	150	34879	IoT Security	SCO	MUCC	1	A	L. 1G 1.1 - T. QUEVEDO	
+09/01/2025	08:00	150	11552	Computer Organization	ETC	GIINF	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Parcial 2A
+09/01/2025	08:00	150	11552	Computer Organization	ETC	GIINF-GMAT	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Parcial 2A
+09/01/2025	08:00	150	11552	Computer Organization	ETC	GIINF-GADE	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Parcial 2A
+09/01/2025	09:00	150	14524	Algebra and Geometry	AGE	GIIROB	1	A	1G 1.7	Segundo parcial teoría
+09/01/2025	11:00	150	11590	Programing Languages and Compilers	LPPL	GIINF	4	A	1G 1.1, 1G 1.2	Segundo parcial
+09/01/2025	11:00	120	11596	Design and management of databases	DBD	GIINF	4	A	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3	Examen prácticas
+09/01/2025	11:00	120	11580	Tecnologías avanzadas para redes corporativas y Datacenters	TRD	GIINF	4	A	1G 0.7	Segundo parcial
+09/01/2025	11:00	120	11596	Design and management of databases	DBD	GIINF-GADE	5	A	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3	Examen prácticas
+09/01/2025	11:00	150	14013	Digital Economy	EDIG	GCD	3	A	1G 0.3,Aula 1G 0.8	Segundo parcial
+09/01/2025	12:30	90	14524	Algebra and Geometry	AGE	GIIROB	1	A	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Ex¿men Pr¿cticas
+09/01/2025	14:00	60	11590	Programing Languages and Compilers	LPPL	GIINF	4	A	LAB. DSIC 4,LAB. DSIC 5,LAB. DSIC 7,LAB. DSIC 8	Examen prácticas en labs dsic.
+09/01/2025	15:00	150	11547	Discrete Mathematics	MAD	GIINF	1	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+09/01/2025	15:00	150	11547	Discrete Mathematics	MAD	GIINF-GADE	1	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+09/01/2025	15:00	300	11475	TECHNICAL DRAWING	EXPR.G	GCD-GIOI	2	A	521,Aula 522	
+09/01/2025	15:00	120	14538	Operating Systems	SOP	GIIROB	2	A	1G 1.7	Segundo parcial
+09/01/2025	15:00	150	14038	Biomedical data science	BDS	GCD	4	A	1E 1.1	Final
+09/01/2025	18:00	150	11549	Parallel computing	CPA	GIINF-GADE	4	A	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial. Mismo GIINF.
+09/01/2025	18:00	150	11549	Parallel computing	CPA	GIINF	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Segundo parcial
+10/01/2025	08:00	90	14002	Programming Fundamentals	FPR	GCD	1	A	1E 2.1, 1E 2.2, 1E 2.3	Segundo parcial teor¿a.
+10/01/2025	08:00	90	14002	Programming Fundamentals	FPR	GCD-GIOI	1	A	1E 2.1, 1E 2.2, 1E 2.3	Segundo parcial teor¿a.
+10/01/2025	08:00	210	11555	Software engineering	ISW	GIINF	3	A	1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Examen final
+10/01/2025	08:00	210	11555	Software engineering	ISW	GIINF-GADE	4	A	ETS DE INGENIERÍA INFORMÁTICA	Examen final. Mismas aulas GIINF.
+10/01/2025	08:00	300	11488	Production and Manufacturing Systems	SPF	GCD-GIOI	2	A	Aula 424,Aula 425	
+10/01/2025	10:00	120	14002	Programming Fundamentals	FPR	GCD	1	A	LAB. DSIC 0,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 6	Segundo parcial prácticas.
+10/01/2025	10:00	120	14002	Programming Fundamentals	FPR	GCD-GIOI	1	A	LAB. DSIC 0,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 6	Segundo parcial prácticas.
+10/01/2025	11:00	180	14018	Project management	GPR	GCD	4	A	1G 0.1	Examen final
+10/01/2025	11:00	90	14537	Computer Vision	VCO	GIIROB	3	A	1G 1.7	Segundo parcial
+10/01/2025	11:00	90	11593	Algorithmics	ALT	GIINF	4	A	1E 0.1, 1E 0.2	Segundo parcial teor¿a
+10/01/2025	12:30	90	11757	World Economy	EM	GIINF-GADE	2	A	1.1, 1.2, 1.3, 1.4, 1.5	A2
+10/01/2025	13:00	60	11593	Algorithmics	ALT	GIINF	4	A	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Segundo parcial pr¿cticas labs dsic
+10/01/2025	15:00	180	11752	Financial Economics	EF	GIINF-GADE	5	A	1.1	A2
+10/01/2025	15:00	150	11542	Computer Fundamentals	FCO	GIINF-GADE	1	A	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Segundo parcial
+10/01/2025	15:00	180	11542	Computer Fundamentals	FCO	GIINF	1	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.3, 1G 1.4	Segundo parcial
+10/01/2025	15:00	180	11542	Computer Fundamentals	FCO	GIINF-GMAT	1	A	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial. Se realiza junto a los alumnos del GIINF.
+10/01/2025	15:00	90	14006	Statistical models for decision-making II	MET II	GCD	2	A	1E 2.0, 1E 2.1, 1E 2.2	Segundo parcial.
+10/01/2025	17:00	75	11595	Quality and Optimization	COP	GIINF	4	A	L. 1B 0.2 - R. STALLMAN,L. 1B 0.3 - G. HOPPER	Cuarto parcial
+10/01/2025	18:00	150	11572	Integration and interoperability	IEI	GIINF	4	A	1G 1.7	Examen final
+10/01/2025	18:15	120	11609	Corporate Networks	RCO	GIINF	4	A	1G 1.1, 1G 1.2, 1G 1.3	Segundo parcial
+10/01/2025	18:15	120	11556	Human-Computer Interfaces	IPC	GIINF-GADE	3	A	1G 0.5	Segundo parcial
+10/01/2025	18:45	120	11595	Quality and Optimization	COP	GIINF	4	A	L. 1B 0.2 - R. STALLMAN,L. 1B 0.3 - G. HOPPER	Examen pr¿cticas
+13/01/2025	08:00	150	14000	Discrete Mathematics	MAD	GCD	1	A	1E 2.1, 1E 2.2, 1E 2.3	Segundo parcial
+13/01/2025	08:00	150	14525	Mathematical Analysis	AMA	GIIROB	1	A	1G 1.7	Segundo Parcial
+13/01/2025	08:00	150	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+13/01/2025	08:00	150	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GADE	2	A	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial. Se realiza junto al alumnado de GIINF
+13/01/2025	08:00	300	11481	Material Science	C.MAT.	GCD-GIOI	2	A	023, 024, 025	
+13/01/2025	10:00	60	11657	Bioinformatics	BIO	GIINF	4	A	L. 1G 0.0 - A. BORG	Examen final
+13/01/2025	11:00	90	14011	Predictive and descriptive models II	MDP II	GCD	3	A	1G 0.3, 1G 0.4	Segundo parcial.
+13/01/2025	11:00	120	14539	Operating Environments for Robotics and Industrial Informatics	EOII	GIIROB	3	A	L. 1B 0.4 - E. DIJKSTRA	Acto de evaluación 2. Grupo L1.
+13/01/2025	11:00	150	11600	Management and configuration of information system's architecture	GCA	GIINF-GADE	5	A	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Parcial en laboratorio Ada Byron y Alan Turing
+13/01/2025	11:00	150	11649	Cryptography	CRI	GIINF	4	A	LAB. DSIC 7,LAB. DSIC 8	Segundo parcial
+13/01/2025	11:15	120	11657	Bioinformatics	BIO	GIINF	4	A	L. 1G 0.0 - A. BORG	Presentación trabajos
+13/01/2025	12:45	90	14011	Predictive and descriptive models II	MDP II	GCD	3	A	1G 0.3, 1G 0.4	Segunda prueba práctica
+13/01/2025	15:00	300	11472	Physics I	FIS I	GCD-GIOI	1	A	023, 024, 025	
+13/01/2025	15:00	150	14015	Data acquisition and transmission	ATD	GCD	2	A	1G 1.5, 1G 1.7	segundo parcial teor¿a.
+13/01/2025	15:00	120	14555	Robot programming	PRR	GIIROB	2	A	1E 1.1, 1E 1.2	Segundo parcial
+13/01/2025	15:00	180	14328	Linear Algebra and Geometry II	ALG2	GIINF-GMAT	2	A	4D - 1.8,4D - Aula 1.6	
+13/01/2025	15:00	90	11563	Network information system technology	TSR	GIINF	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4	Segundo parcial
+13/01/2025	15:00	90	11563	Network information system technology	TSR	GIINF-GADE	4	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4	Segundo parcial
+13/01/2025	15:30	60	33415	IT Governance	GGO	MUIINF	1	A	1G 0.2	Primer parcial
+13/01/2025	17:00	90	11563	Network information system technology	TSR	GIINF	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4	Examen prácticas.
+13/01/2025	17:00	90	11563	Network information system technology	TSR	GIINF-GADE	4	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4	Examen prácticas.
+13/01/2025	18:00	90	14015	Data acquisition and transmission	ATD	GCD	2	A	1G 1.5, 1G 1.7	Examen pr¿cticas
+13/01/2025	18:00	90	11755	Labour Law	DT	GIINF-GADE	3	A	0.1, 0.2	A2
+14/01/2025	08:00	225	11541	Introduction to Computer Science and Programming	IIP	GIINF	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8,LAB. DSIC 1	Prácticas: 1h+ 15 min descanso+ Parcial 2 Teoría: 2h 30'
+14/01/2025	08:00	225	11541	Introduction to Computer Science and Programming	IIP	GIINF-GADE	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8,LAB. DSIC 1	Prácticas: 1h+ 15 min descanso+ Parcial 2 Teoría: 2h 30'
+14/01/2025	10:00	110	11616	English for Computing (B2)	IN2	GIINF	2	A	1E 0.0, 1E 0.1, 1E 0.2, 1E 0.3, 1E 2.1, 1E 2.2, 1E 2.3	Final
+14/01/2025	11:00	150	11597	Business requirements analysis	ARN	GIINF-GADE	4	A	1E 1.4	Examen final
+14/01/2025	11:00	120	14547	Intelligent Systems	SIN	GIIROB	3	A	1E 1.1, 1E 1.2	Segundo parcial
+14/01/2025	11:00	150	14025	Optimization	OPT	GCD	4	A	1G 1.7	Segundo parcial
+14/01/2025	12:00	120	11615	English for Computing (B1)	IN1	GIINF	2	A	1G 0.3, 1G 0.4	Final
+14/01/2025	15:00	180	14324	Complex Analysis	VACOMP	GIINF-GMAT	2	A	4D - 1.1,4D - 1.2	
+14/01/2025	15:00	150	11594	Machine Learning	APR	GIINF	4	A	1G 1.1, 1G 1.2	Segundo parcial
+14/01/2025	15:00	150	11551	Data Structures and Algorithms	EDA	GIINF-GADE	3	A	1G 0.3	Segundo parcial
+14/01/2025	15:00	60	34875	Cyber Security Incident Management	GIC	MUCC	1	A	L. 1G 1.1 - T. QUEVEDO	Examen final
+14/01/2025	15:00	120	14918	Diseño de sistemas basados en FPGA	DFP	GIINF	4	A	Laboratorio Estructura de Computadores	Examen final práctico
+14/01/2025	15:00	150	11569	Software maintenance and evolution	MES	GIINF	4	A	1G 1.7	Examen final
+14/01/2025	15:30	150	33415	IT Governance	GGO	MUIINF	1	A	1E 2.3	Presentación de trabajos
+14/01/2025	16:00	120	34131	Digital Skills in Humanistic Innovation	HDH	MUHD	1	A	L. 1G 0.0 - A. BORG	Presentación final de proyectos
+14/01/2025	17:30	120	33422	Entertainment and Video Games	EVI	MUIINF	2	A	LAB. DSIC 6	Presentación de trabajos
+14/01/2025	18:00	150	11596	Design and management of databases	DBD	GIINF	4	A	1E 1.3, 1E 1.4	Segundo parcial
+14/01/2025	18:00	180	11739	Macroeconomics I	MACR I	GIINF-GADE	2	A	0.4, 1.1, 1.2, 1.3, 1.4, 1.5	A2
+14/01/2025	18:00	150	11596	Design and management of databases	DBD	GIINF-GADE	5	A	1E 1.3, 1E 1.4	Segundo parcial
+14/01/2025	18:15	180	14324	Complex Analysis	VACOMP	GIINF-GMAT	2	A	Aula Informática I,Aula Informática II	
+15/01/2025	08:00	150	14528	Principles of Computers	PRC	GIIROB	1	A	L. 1G 1.1 - T. QUEVEDO,L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Segundo Parcial
+15/01/2025	08:00	300	11485	Thermodynamics	TER	GCD-GIOI	2	A	023, 024, 025	
+15/01/2025	08:00	150	13999	Mathematical Analysis	AMA	GCD	1	A	1G 1.6, 1G 1.7	Segundo parcial.
+15/01/2025	08:00	150	11545	Mathematical Analysis	AMA	GIINF	1	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.4	Segundo parcial
+15/01/2025	09:00	180	11753	Marketing Research	ICO	GIINF-GADE	4	A	1.1, 1.2, 1.3, 1.4, 1.5	A2
+15/01/2025	09:00	180	13867	Mathematical Models for Business Administration I	MADE I	GIINF-GADE	1	A	0.0, 0.1, 0.2, 0.3, 0.4	A2
+15/01/2025	11:00	180	14022	Visualization	VIS	GCD	3	A	1G 1.5, 1G 1.7	Final
+15/01/2025	11:00	150	11553	Computer architecture and engineering	AIC	GIINF	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4	Segundo parcial
+15/01/2025	11:00	150	11553	Computer architecture and engineering	AIC	GIINF-GADE	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4	Segundo parcial
+15/01/2025	11:00	120	14539	Operating Environments for Robotics and Industrial Informatics	EOII	GIIROB	3	A	L. 1B 0.4 - E. DIJKSTRA	Acto de evaluación 2. Grupo L2.
+15/01/2025	15:00	300	11473	Chemistry	QUIM.	GCD-GIOI	1	A	011, 012	
+15/01/2025	15:00	150	14008	Data Structures	EDA	GCD	2	A	1E 0.1, 1E 0.2, 1E 0.3	Segundo parcial.
+15/01/2025	15:00	180	14552	Industrial Instrumentation and Sensors	IIS	GIIROB	2	A	1E 1.1, 1E 1.2	Segundo parcial teor¿a
+15/01/2025	15:00	150	11561	Operating System Fundamentals	FSO	GIINF-GMAT	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+15/01/2025	15:00	150	11561	Operating System Fundamentals	FSO	GIINF	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+15/01/2025	15:00	150	11561	Operating System Fundamentals	FSO	GIINF-GADE	2	A	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+15/01/2025	15:30	150	33430	Computer Networks and Security	RSE	MUIINF	1	A	L. 1G 1.0 - L. TORVALDS	Entrega proyectos
+15/01/2025	18:00	60	14008	Data Structures	EDA	GCD	2	A	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 4,LAB. DSIC 5,LAB. DSIC 6	Examen prácticas.
+15/01/2025	18:00	150	11591	Introduction to Interactive Computer Graphics Systems	SGI	GIINF	4	A	1G 1.1, 1G 1.2	Examen de problemas
+15/01/2025	18:00	150	11601	Organisational behaviour and change management	COR	GIINF-GADE	5	A	1E 1.1	Segundo parcial
+16/01/2025	09:00	120	13786	Valencian for Administration- C2	VPAC24	IDIOMES	4	A		
+16/01/2025	09:30	45	14547	Intelligent Systems	SIN	GIIROB	3	A	LAB. DSIC 0,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Prueba de laboratorio. Repetición del 14/01 por error red. Primera opción.
+16/01/2025	10:00	120	11595	Quality and Optimization	COP	GIINF	4	A	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Exámen prácticas
+16/01/2025	11:00	120	14544	Human-Machine Interfaces	IHM	GIIROB	3	A	1G 1.4	Segundo parcial
+16/01/2025	13:00	120	14066	Technical Valencian - C1	VTC1-4	GIIROB	4	A		
+16/01/2025	13:00	120	14066	Technical Valencian - C1	VTC1-4	GCD	4	A		
+16/01/2025	13:00	120	14064	Technical Valencian - C1	VTC1-6	IDIOMES	4	A		
+16/01/2025	13:00	120	14066	Technical Valencian - C1	VTC1-4	IDIOMES	4	A		
+16/01/2025	13:00	120	14066	Technical Valencian - C1	VTC1-4	GIINF	4	A		
+16/01/2025	15:00	120	12990	Computer Networks	RED	GIINF-GMAT	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.4, 1G 1.7	Parcial.
+16/01/2025	15:00	120	12990	Computer Networks	RED	GIINF-GADE	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.4, 1G 1.7	Parcial.
+16/01/2025	15:00	120	12990	Computer Networks	RED	GIINF	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.4, 1G 1.7	Parcial.
+16/01/2025	16:00	120	13795	Academic and professional Italian A1	IA14,5	GIIROB	4	A		
+16/01/2025	16:00	120	13795	Academic and professional Italian A1	IA14,5	IDIOMES	4	A		
+16/01/2025	16:00	120	13795	Academic and professional Italian A1	IA14,5	GIINF	4	A		
+16/01/2025	16:00	120	13776	Academic and professional Italian A1	IA16	IDIOMES	4	A		
+16/01/2025	16:00	120	13795	Academic and professional Italian A1	IA14,5	GCD	4	A		
+16/01/2025	17:00	120	14067	Technical Valencian - C2	VTC2-4	GIINF	4	A		
+16/01/2025	17:00	120	14065	Valencià tècnic - C2	VTC2-6	IDIOMES	4	A		
+16/01/2025	17:00	120	14067	Technical Valencian - C2	VTC2-4	GCD	4	A		
+16/01/2025	17:00	120	14067	Technical Valencian - C2	VTC2-4	IDIOMES	4	A		
+16/01/2025	17:00	120	14067	Technical Valencian - C2	VTC2-4	GIIROB	4	A		
+16/01/2025	17:30	120	33419	Cybersecurity	CIB	MUIINF	2	A	L. 1G 1.3 - A. BYRON	Examen
+17/01/2025	08:00	300	11486	Fundamentals of business Management	FOE	GCD-GIOI	2	A	012, 013	
+17/01/2025	08:00	120	14526	Introducción a la Programación	IPR	GIIROB	1	A	1G 1.7	Segundo Parcial
+17/01/2025	09:30	45	14547	Intelligent Systems	SIN	GIIROB	3	A	LAB. DSIC 0,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Prueba de laboratorio. Repetición del 14/01 por error red. Segunda opción.
+17/01/2025	09:30	90	14004	Exploratory data analysis	AED	GCD-GIOI	1	A	1E 0.1, 1E 0.2, 1E 0.3	Segundo parcial
+17/01/2025	09:30	90	14004	Exploratory data analysis	AED	GCD	1	A	1E 0.1, 1E 0.2, 1E 0.3	Segundo parcial
+17/01/2025	10:30	120	14526	Introducción a la Programación	IPR	GIIROB	1	A	1G 1.7	Examen pr¿cticas. Dos turnos.
+17/01/2025	11:00	150	11550	Ethics and Professionalism	DYP	GIINF-GADE	3	A	Aula 1G 0.8	Recuperación
+17/01/2025	11:00	90	11604	Business models and company functional areas	MNE	GIINF	4	A	1G 0.2	Recuperaci¿n final presencial.
+17/01/2025	12:00	60	14030	Knowledge Representation and Reasoning	RCR	GCD	3	A	1G 1.0, 1G 1.1, 1G 1.2	Final
+17/01/2025	15:00	120	14530	Statistics	EST	GIIROB	2	A	1G 1.7	Segundo parcial de teoría
+20/01/2025	08:00	300	11470	Mathematics I	MAT.I	GCD-GIOI	1	A	034, 035	
+20/01/2025	08:00	300	11470	Mathematics I	MAT.I	GCD-GIOI	1	A	034, 035	
+20/01/2025	08:00	180	11539	Statistics	EST	GIINF-GADE	1	A	Aula 1G 0.8	Recuperaci¿n
+20/01/2025	11:00	150	14014	Professional, legal and ethics framework	MPLD	GCD	4	A	1E 1.4	Examen de recuperaci¿n
+20/01/2025	11:15	180	14336	Operative Research	INVOPE	GIINF-GMAT	3	A	4D - 1.8,4D - Aula 1.6	
+20/01/2025	15:00	300	11476	Industrial Business and Economy	EMPR.	GCD-GIOI	2	A	311	
+20/01/2025	15:30	90	33430	Computer Networks and Security	RSE	MUIINF	1	A	L. 1G 1.0 - L. TORVALDS	Recuperación test todos los alumnos. Recuperación examen con dispensa
+21/01/2025	09:00	120	13762	Academic and professional German A1	AA14,5	GCD	4	A		
+21/01/2025	09:00	120	13762	Academic and professional German A1	AA14,5	GIIROB	4	A		
+21/01/2025	09:00	120	13762	Academic and professional German A1	AA14,5	GIINF	4	A		
+21/01/2025	09:00	120	13762	Academic and professional German A1	AA14,5	IDIOMES	4	A		
+21/01/2025	09:00	120	13758	Academic and professional German A1	AA16	IDIOMES	4	A		
+21/01/2025	11:00	180	11562	Concurrency and Distributed Systems	CSD	GIINF-GADE	3	A	1G 0.7	Recuperaci¿n
+21/01/2025	11:00	120	13763	Academic and professional German A2	AA24,5	GIIROB	4	A		
+21/01/2025	11:00	120	13763	Academic and professional German A2	AA24,5	GIINF	4	A		
+21/01/2025	11:00	150	11613	User-Centered Development	DCU	GIINF	4	A	1G 0.3, 1G 0.4	Recuperaci¿n final
+21/01/2025	11:00	150	14040	Business Analytics	BA	GCD	4	A	1G 0.2	Recuperaci¿n
+21/01/2025	11:00	120	13763	Academic and professional German A2	AA24,5	IDIOMES	4	A		
+21/01/2025	11:00	120	13759	Academic and professional German A2	AA26	IDIOMES	4	A		
+21/01/2025	11:00	120	13763	Academic and professional German A2	AA24,5	GCD	4	A		
+21/01/2025	13:00	120	13764	Academic and professional German B1	AB16	GIIROB	4	A		
+21/01/2025	13:00	120	13764	Academic and professional German B1	AB16	GIINF-GMAT	4	A		
+21/01/2025	13:00	120	13764	Academic and professional German B1	AB16	GIINF	4	A		
+21/01/2025	13:00	120	13760	Academic and professional German B1	AB14,5	IDIOMES	4	A		
+21/01/2025	13:00	120	13764	Academic and professional German B1	AB16	GCD	4	A		
+21/01/2025	13:00	120	13764	Academic and professional German B1	AB16	IDIOMES	4	A		
+21/01/2025	15:00	150	11602	SI TI service management	GSE	GIINF-GADE	5	A	1E 1.1	Recuperacion final
+21/01/2025	15:00	300	11477	Automatic Control Systems	SA	GCD-GIOI	2	A		
+21/01/2025	15:00	150	14012	Economic and social behavior	CES	GCD	2	A	Aula 1G 0.8	Recuperaci¿n.
+21/01/2025	15:00	300	11477	Automatic Control Systems	SA	GCD-GIOI	2	A	Aula 323	
+21/01/2025	15:00	60	34875	Cyber Security Incident Management	GIC	MUCC	1	A	L. 1G 1.1 - T. QUEVEDO	Recuperación
+21/01/2025	15:30	60	33415	IT Governance	GGO	MUIINF	1	A	1G 0.2	Recuperación
+21/01/2025	17:00	120	13765	Academic and professional German B2	AB24,5	GCD	4	A		
+21/01/2025	17:00	120	13761	Academic and professional German B2	AB26	IDIOMES	4	A		
+21/01/2025	17:00	120	13765	Academic and professional German B2	AB24,5	GIINF	4	A		
+21/01/2025	17:00	120	13765	Academic and professional German B2	AB24,5	IDIOMES	4	A		
+21/01/2025	17:00	120	13765	Academic and professional German B2	AB24,5	GIIROB	4	A		
+23/01/2025	08:00	240	11540	Physics Foundations on Computer Science	FFI	GIINF	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n
+23/01/2025	08:00	180	13997	Fundamentals of business management	FOE	GCD	1	A	1G 0.5, 1G 0.6	Final
+23/01/2025	08:00	240	11556	Human-Computer Interfaces	IPC	GIINF-GADE	3	A	1G 1.0	Recuperaci¿n
+23/01/2025	08:00	150	14532	Fundamentos de Organización de Empresas	FOE	GIIROB	1	A	1E 0.1	Recuperaci¿n
+23/01/2025	08:00	300	11475	TECHNICAL DRAWING	EXPR.G	GCD-GIOI	2	A	420, 421	
+23/01/2025	08:00	240	11540	Physics Foundations on Computer Science	FFI	GIINF-GADE	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n
+23/01/2025	09:00	120	13769	Academic and Professional French B2	FB24,5	IDIOMES	4	A		
+23/01/2025	09:00	120	13773	French for Academic and Professional Purposes B2	FB26	IDIOMES	4	A		
+23/01/2025	09:00	120	13773	French for Academic and Professional Purposes B2	FB26	GCD	4	A		
+23/01/2025	09:00	120	13773	French for Academic and Professional Purposes B2	FB26	GIINF	4	A		
+23/01/2025	09:00	120	13773	French for Academic and Professional Purposes B2	FB26	GIIROB	4	A		
+23/01/2025	11:00	120	13766	Academic and professional French A1	FA14,5	IDIOMES	4	A		
+23/01/2025	11:00	120	13770	French for Academic and Professional Purposes A1	FA16	GCD	4	A		
+23/01/2025	11:00	210	11548	Databases and information systems	BDA	GIINF-GADE	4	A	ETS DE INGENIERÍA INFORMÁTICA	Recuperación final. Mismas aulas GIINF.
+23/01/2025	11:00	150	14016	Infrastructure for data processing	IPD	GCD	3	A	1E 0.2, 1E 0.3	Recuperaci¿n
+23/01/2025	11:00	120	13770	French for Academic and Professional Purposes A1	FA16	GIIROB	4	A		
+23/01/2025	11:00	200	14542	Industrial Logistics and Optimization	LIO	GIIROB	3	A	1E 0.0	Recuperaci¿n primer parcial + descanso+ recuperaci¿n segundo parcial
+23/01/2025	11:00	210	11548	Databases and information systems	BDA	GIINF	3	A	1E 1.1, 1E 1.2, 1E 1.3, 1E 1.4, 1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Recuperación final
+23/01/2025	11:00	120	13770	French for Academic and Professional Purposes A1	FA16	GIINF	4	A		
+23/01/2025	11:00	120	13770	French for Academic and Professional Purposes A1	FA16	IDIOMES	4	A		
+23/01/2025	13:00	120	13771	French for academic and professional purposes - A2	FA26	GIIROB	4	A		
+23/01/2025	13:00	120	13771	French for academic and professional purposes - A2	FA26	IDIOMES	4	A		
+23/01/2025	13:00	120	13771	French for academic and professional purposes - A2	FA26	GCD	4	A		
+23/01/2025	13:00	120	13771	French for academic and professional purposes - A2	FA26	GIINF	4	A		
+23/01/2025	13:00	120	13767	French for academic and professional purposes - A2	FA24,5	IDIOMES	4	A		
+23/01/2025	14:30	90	14542	Industrial Logistics and Optimization	LIO	GIIROB	3	A	1E 0.0	Recuperaci¿n trabajos
+23/01/2025	15:00	180	11599	Strategic Information Systems	SIE	GIINF	4	A	1E 1.4	Recuperaci¿n final.
+23/01/2025	15:00	180	11544	Computer Technology.	TCO	GIINF-GADE	2	A	Aula 1G 0.8	Recuperaciones
+23/01/2025	15:00	150	11570	Requirements Analysis and Specification	AER	GIINF	4	A	1E 2.2	Recuperaci¿n
+23/01/2025	15:00	180	11593	Algorithmics	ALT	GIINF	4	A	1G 0.5	Recuperaci¿n primer y segundo parcial
+23/01/2025	15:00	120	14543	Programación Avanzada	PRA	GIIROB	2	A	1E 0.1	Recuperaci¿n
+23/01/2025	15:00	150	14035	Educational Data Analysis	ADE	GCD	4	A	1E 1.1	Recuperaci¿n
+23/01/2025	15:00	180	11599	Strategic Information Systems	SIE	GIINF-GADE	5	A	1E 1.4	Recuperaci¿n final.
+23/01/2025	17:00	120	13772	Academic and professional French B1	FB14,5	GCD	4	A		
+23/01/2025	17:00	120	13772	Academic and professional French B1	FB14,5	GIIROB	4	A		
+23/01/2025	17:00	120	13772	Academic and professional French B1	FB14,5	GIINF	4	A		
+23/01/2025	17:00	120	13768	Academic and professional French B1	FB16	IDIOMES	4	A		
+23/01/2025	17:00	120	13772	Academic and professional French B1	FB14,5	IDIOMES	4	A		
+23/01/2025	17:30	120	33419	Cybersecurity	CIB	MUIINF	2	A	L. 1G 1.3 - A. BYRON	Recuperación
+24/01/2025	08:00	90	14002	Programming Fundamentals	FPR	GCD	1	A	1E 2.1	Recuperación segundo parcial.
+24/01/2025	08:00	90	14002	Programming Fundamentals	FPR	GCD-GIOI	1	A	1E 2.1	Recuperación segundo parcial.
+24/01/2025	08:30	90	11757	World Economy	EM	GIINF-GADE	2	A	0.0, 0.1, 0.2, 0.3, 0.4	A3
+24/01/2025	08:30	180	14524	Algebra and Geometry	AGE	GIIROB	1	A	1G 0.7	Recuperación. Varias partes.
+24/01/2025	09:00	90	11556	Human-Computer Interfaces	IPC	GIINF-GADE	3	A	LAB. DSIC 4	Examen recuperación lab
+24/01/2025	10:00	120	14002	Programming Fundamentals	FPR	GCD-GIOI	1	A	LAB. DSIC 0,LAB. DSIC 6	Recuperaci¿n segundo parcial pr¿cticas. Dos turnos.
+24/01/2025	10:00	120	14002	Programming Fundamentals	FPR	GCD	1	A	LAB. DSIC 0,LAB. DSIC 6	Recuperaci¿n segundo parcial pr¿cticas. Dos turnos.
+24/01/2025	11:00	150	14013	Digital Economy	EDIG	GCD	3	A	Aula 1G 0.8	Recuperaci¿n
+24/01/2025	11:00	150	11560	Intelligent Systems	SIN	GIINF-GADE	4	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.4	Examen final
+24/01/2025	11:00	150	11560	Intelligent Systems	SIN	GIINF	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.4	Examen final
+24/01/2025	12:00	120	14524	Algebra and Geometry	AGE	GIIROB	1	A	L. 1B 0.2 - R. STALLMAN,L. 1B 0.3 - G. HOPPER	Recuperación prácticas
+24/01/2025	15:00	180	11564	Automata Theory and Formal Languages	TAL	GIINF-GADE	3	A	ETS DE INGENIERÍA INFORMÁTICA	Recuperaci¿n. Se realiza junto al alumnado de GIINF
+24/01/2025	15:00	150	14538	Operating Systems	SOP	GIIROB	2	A	1G 0.7	Recuperaci¿n
+24/01/2025	15:00	300	11488	Production and Manufacturing Systems	SPF	GCD-GIOI	2	A	Aula 424,Aula 425	
+24/01/2025	15:00	300	11488	Production and Manufacturing Systems	SPF	GCD-GIOI	2	A		
+24/01/2025	15:00	150	14006	Statistical models for decision-making II	MET II	GCD	2	A	1E 0.0, 1E 0.1	Recuperaci¿n.
+24/01/2025	15:00	180	11564	Automata Theory and Formal Languages	TAL	GIINF	2	A	1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Recuperación
+24/01/2025	16:00	240	11592	Techniques, tools and applications of artificial intelligence	TIA	GIINF	4	A	LAB. DSIC 7,LAB. DSIC 8	Recuperaci¿n pr¿cticas.
+24/01/2025	18:00	180	11574	Software Engineering Project	PIN	GIINF	4	A	1G 1.4	Recuperación
+27/01/2025	08:00	210	11547	Discrete Mathematics	MAD	GIINF-GADE	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.7,Aula 1G 0.8	Recuperaci¿n
+27/01/2025	08:00	360	11472	Physics I	FIS I	GCD-GIOI	1	A	031, 032	
+27/01/2025	08:00	150	14525	Mathematical Analysis	AMA	GIIROB	1	A	1E 0.1	Recuperación
+27/01/2025	08:00	210	11547	Discrete Mathematics	MAD	GIINF	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.7,Aula 1G 0.8	Recuperaci¿n
+27/01/2025	11:00	90	14011	Predictive and descriptive models II	MDP II	GCD	3	A	1E 1.3, 1E 1.4	Recuperación.
+27/01/2025	11:00	200	14537	Computer Vision	VCO	GIIROB	3	A	1E 1.2	Recuperaci¿n
+27/01/2025	11:00	300	11549	Parallel computing	CPA	GIINF-GADE	4	A	ETS DE INGENIERÍA INFORMÁTICA	Recuperación. Mismo GIINF.
+27/01/2025	11:00	300	11549	Parallel computing	CPA	GIINF	3	A	1E 0.1, 1E 0.2, 1E 0.3, 1E 2.1, 1E 2.2, 1E 2.3	Recuperaci¿n
+27/01/2025	12:45	90	14011	Predictive and descriptive models II	MDP II	GCD	3	A	1E 1.3, 1E 1.4	Recuperación prueba práctica semana
+27/01/2025	15:00	210	11552	Computer Organization	ETC	GIINF	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.7	Recuperaci¿n 1A + 2A
+27/01/2025	15:00	120	14032	Image and video analytics	AIV	GCD	4	A	1E 0.0	Recuperaci¿n
+27/01/2025	15:00	180	14000	Discrete Mathematics	MAD	GCD	1	A	1G 0.5, 1G 0.6	Recuperación teoría
+27/01/2025	15:00	150	14555	Robot programming	PRR	GIIROB	2	A	Lab. 1B L 0.0 Angela Ruiz Robles	Recuperaci¿n
+27/01/2025	15:00	210	11552	Computer Organization	ETC	GIINF-GMAT	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.7	Recuperaci¿n 1A + 2A
+27/01/2025	15:00	300	11481	Material Science	C.MAT.	GCD-GIOI	2	A		
+27/01/2025	15:00	300	11481	Material Science	C.MAT.	GCD-GIOI	2	A	032, 033	
+27/01/2025	15:00	210	11552	Computer Organization	ETC	GIINF-GADE	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.7	Recuperaci¿n 1A + 2A
+27/01/2025	15:30	120	33427	Enterprise resource planning	GIN	MUIINF	2	A	L. 1G 1.0 - L. TORVALDS	Final (Recuperación- Presencial).
+27/01/2025	17:00	180	11580	Tecnologías avanzadas para redes corporativas y Datacenters	TRD	GIINF	4	A	1G 0.7	Recuperación
+27/01/2025	18:00	150	11603	Integrated Information Systems in Organizations	SIO	GIINF	4	A	1E 1.3	Examen final
+27/01/2025	18:00	150	11603	Integrated Information Systems in Organizations	SIO	GIINF-GADE	5	A	1E 1.3	Examen final
+27/01/2025	18:00	120	11592	Techniques, tools and applications of artificial intelligence	TIA	GIINF	4	A	Aula 1G 0.8	Recuperaci¿n teor¿a
+27/01/2025	18:00	150	11572	Integration and interoperability	IEI	GIINF	4	A	1G 1.4	Recuperaci¿n
+28/01/2025	08:00	150	11649	Cryptography	CRI	GIINF	4	A	1G 0.2	Final
+28/01/2025	08:00	150	11541	Introduction to Computer Science and Programming	IIP	GIINF-GADE	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperación Parcial 2 - Teoría: 2h 30'
+28/01/2025	08:00	360	14324	Complex Analysis	VACOMP	GIINF-GMAT	2	A	4D - B.3	
+28/01/2025	08:00	150	11541	Introduction to Computer Science and Programming	IIP	GIINF	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperación Parcial 2 - Teoría: 2h 30'
+28/01/2025	11:00	150	14009	Scalable Machine Learning techniques	TEAA	GCD	4	A	Aula 1G 0.8	Examen de recuperaci¿n
+28/01/2025	11:00	210	11555	Software engineering	ISW	GIINF-GADE	4	A	ETS DE INGENIERÍA INFORMÁTICA	Recuperación. Mismas aulas GIINF.
+28/01/2025	11:00	210	11555	Software engineering	ISW	GIINF	3	A	1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperación
+28/01/2025	15:00	180	11752	Financial Economics	EF	GIINF-GADE	5	A	1G 0.2	A3
+28/01/2025	15:00	150	14015	Data acquisition and transmission	ATD	GCD	2	A	1E 2.1, 1E 2.2	Recuperación
+28/01/2025	15:00	120	11615	English for Computing (B1)	IN1	GIINF	2	A	1G 1.4	Recuperaci¿n
+28/01/2025	17:30	120	11616	English for Computing (B2)	IN2	GIINF	2	A	1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n
+28/01/2025	18:00	150	11551	Data Structures and Algorithms	EDA	GIINF-GADE	3	A	1G 0.5	Final
+28/01/2025	18:00	90	14015	Data acquisition and transmission	ATD	GCD	2	A	1E 2.1, 1E 2.2	Examen pr¿cticas
+28/01/2025	18:00	180	11551	Data Structures and Algorithms	EDA	GIINF-GMAT	3	A	1G 0.6	Recuperaci¿n
+29/01/2025	08:00	210	13999	Mathematical Analysis	AMA	GCD	1	A	1G 1.4	Recuperaci¿n final.
+29/01/2025	08:00	180	11596	Design and management of databases	DBD	GIINF-GADE	5	A	Aula 1G 0.8	Recuperaci¿n teor¿a
+29/01/2025	08:00	300	11473	Chemistry	QUIM.	GCD-GIOI	1	A	013, 014	
+29/01/2025	08:00	300	11473	Chemistry	QUIM.	GCD-GIOI	1	A		
+29/01/2025	08:00	180	11566	Software analysis, validation and debugging	AVD	GIINF	4	A	1G 0.2	Recuperación
+29/01/2025	08:00	300	14528	Principles of Computers	PRC	GIIROB	1	A	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Recuperaci¿n
+29/01/2025	08:00	180	11596	Design and management of databases	DBD	GIINF	4	A	Aula 1G 0.8	Recuperaci¿n teor¿a
+29/01/2025	08:00	180	11590	Programing Languages and Compilers	LPPL	GIINF	4	A	1E 1.2	Recuperaci¿n
+29/01/2025	11:00	180	14022	Visualization	VIS	GCD	3	A	1G 0.3	Recuperación
+29/01/2025	11:00	180	14547	Intelligent Systems	SIN	GIIROB	3	A	1E 1.2	Recuperaci¿n
+29/01/2025	11:30	150	11596	Design and management of databases	DBD	GIINF	4	A	LAB. DSIC 0,LAB. DSIC 1	Recuperación de prácticas de DBD
+29/01/2025	11:30	60	11590	Programing Languages and Compilers	LPPL	GIINF	4	A	LAB. DSIC 7,LAB. DSIC 8	Examen prácticas en labs. DSIC
+29/01/2025	11:30	120	11566	Software analysis, validation and debugging	AVD	GIINF	4	A	LAB. DSIC 3	Examen de pr¿cticas en laboratorio dsic
+29/01/2025	11:30	150	11596	Design and management of databases	DBD	GIINF-GADE	5	A	LAB. DSIC 0,LAB. DSIC 1	Recuperación de prácticas de DBD
+29/01/2025	12:30	150	11753	Marketing Research	ICO	GIINF-GADE	4	A	1.1, 1.2, 1.3, 1.4, 1.5	A3
+29/01/2025	14:15	45	14547	Intelligent Systems	SIN	GIIROB	3	A	LAB. DSIC 2,LAB. DSIC 3	Recuperaci¿n pr¿cticas
+29/01/2025	15:00	150	14038	Biomedical data science	BDS	GCD	4	A	1E 1.1	Recuperaci¿n
+29/01/2025	15:00	360	11485	Thermodynamics	TER	GCD-GIOI	2	A	013, 014	
+29/01/2025	15:00	120	14552	Industrial Instrumentation and Sensors	IIS	GIIROB	2	A	1E 1.2	Recuperaci¿n primer parcial
+29/01/2025	15:30	90	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n Teor¿a 2¿ Parcial.
+29/01/2025	15:30	150	33430	Computer Networks and Security	RSE	MUIINF	1	A	L. 1G 1.0 - L. TORVALDS	Entrega proyectos (recuperación para correcciones menores).
+29/01/2025	15:30	90	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GADE	2	A	ETS DE INGENIERÍA INFORMÁTICA	Recuperaci¿n Teor¿a 2¿ Parcial. Se realiza junto al alumnado del GIINF.
+29/01/2025	17:10	90	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GADE	2	A	ETS DE INGENIERÍA INFORMÁTICA	Recuperaci¿n Teor¿a 1¿ Parcial. Se realizar¿ junto al alumnado de GIINF
+29/01/2025	17:10	90	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n Teor¿a 1¿ Parcial.
+29/01/2025	17:15	120	14552	Industrial Instrumentation and Sensors	IIS	GIIROB	2	A	1E 1.2, 1E 1.4	Recuperaci¿n segundo parcial
+29/01/2025	18:00	150	34879	IoT Security	SCO	MUCC	1	A	L. 1G 1.1 - T. QUEVEDO	Recuperación
+29/01/2025	18:50	60	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 1.1, 1G 1.2, 1G 1.4	Recuperación Prácticas 2 Parcial.
+29/01/2025	18:50	60	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GADE	2	A	ETS DE INGENIERÍA INFORMÁTICA	Recuperaci¿n Pr¿cticas 2¿ Parcial. Se realizar¿ junto al alumnado del GIINF
+29/01/2025	20:00	45	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n Pr¿cticas 1¿ Parcial.
+29/01/2025	20:00	45	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GADE	2	A	ETS DE INGENIERÍA INFORMÁTICA	Recuperación Prácticas 1 Parcial. Se realizará junto al alumnado del GIINF
+30/01/2025	08:00	240	14544	Human-Machine Interfaces	IHM	GIIROB	3	A	1E 1.2	Recuperación teoría
+30/01/2025	08:00	180	11545	Mathematical Analysis	AMA	GIINF	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n
+30/01/2025	08:00	180	11739	Macroeconomics I	MACR I	GIINF-GADE	2	A	1.1, 1.2, 1.3, 1.4, 1.5, 2.2	A3
+30/01/2025	11:00	180	14018	Project management	GPR	GCD	4	A	1G 0.7	Examen de recuperación.
+30/01/2025	11:15	180	14336	Operative Research	INVOPE	GIINF-GMAT	3	A	4D - 1.8,4D - Aula 1.6	
+30/01/2025	11:15	150	11563	Network information system technology	TSR	GIINF-GADE	4	A	1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.4	Recuperación
+30/01/2025	11:15	150	11563	Network information system technology	TSR	GIINF	3	A	1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.4	Recuperación
+30/01/2025	12:30	60	14544	Human-Machine Interfaces	IHM	GIIROB	3	A	LAB. DSIC 6,LAB. DSIC 7	Recuperación prácticas
+30/01/2025	15:00	150	11594	Machine Learning	APR	GIINF	4	A	1E 2.1	Recuperaci¿n
+30/01/2025	15:00	150	11595	Quality and Optimization	COP	GIINF	4	A	L. 1G 1.1 - T. QUEVEDO	Recuperaci¿n teor¿a
+30/01/2025	15:00	120	11609	Corporate Networks	RCO	GIINF	4	A	Aula 1G 0.8	Recuperaci¿n
+30/01/2025	15:00	150	11600	Management and configuration of information system's architecture	GCA	GIINF-GADE	5	A	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Recuperaci¿n en laboratorio Ada Byron y Alan Turing
+30/01/2025	15:00	120	14026	Databases	BDA	GCD	2	A	1E 0.2, 1E 0.3	Recuperaci¿n
+30/01/2025	16:00	240	13867	Mathematical Models for Business Administration I	MADE I	GIINF-GADE	1	A	0.2, 0.3, 0.4	A3
+30/01/2025	17:30	120	14026	Databases	BDA	GCD	2	A	LAB. DSIC 0,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Recuperación trabajos.
+30/01/2025	18:00	120	14918	Diseño de sistemas basados en FPGA	DFP	GIINF	4	A	Laboratorio Estructura de Computadores	Recuperación final práctico
+30/01/2025	18:00	90	11755	Labour Law	DT	GIINF-GADE	3	A	1G 0.2	A3
+30/01/2025	18:00	120	11595	Quality and Optimization	COP	GIINF	4	A	L. 1G 1.1 - T. QUEVEDO	Recuperaci¿n pr¿ctica
+30/01/2025	18:30	150	33416	IT Project Planning and Management	PDP	MUIINF	1	A	L. 1G 1.0 - L. TORVALDS	Examen de recuperación
+31/01/2025	08:00	270	11542	Computer Fundamentals	FCO	GIINF-GADE	1	A	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Recuperaci¿n parcial 1 2h +descanso 30 min+ Recuperaci¿n parcial 2h
+31/01/2025	08:00	180	11542	Computer Fundamentals	FCO	GIINF	1	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.3	Recuperaci¿n
+31/01/2025	08:00	120	14526	Introducción a la Programación	IPR	GIIROB	1	A	1G 0.7	Recuperaci¿n
+31/01/2025	08:00	180	11542	Computer Fundamentals	FCO	GIINF-GMAT	1	A	ETS DE INGENIERÍA INFORMÁTICA	Recuperaci¿n. Se realiza junto a los alumnos del GIINF.
+31/01/2025	09:30	120	14004	Exploratory data analysis	AED	GCD	1	A	1E 0.1, 1E 0.2	Examen recuperación.
+31/01/2025	09:30	120	14004	Exploratory data analysis	AED	GCD-GIOI	1	A	1E 0.1, 1E 0.2	Examen recuperación.
+31/01/2025	11:00	60	14030	Knowledge Representation and Reasoning	RCR	GCD	3	A	Aula 1G 0.8	Recuperaci¿n
+31/01/2025	11:00	240	11553	Computer architecture and engineering	AIC	GIINF	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.4	Recuperaci¿n
+31/01/2025	11:00	240	11553	Computer architecture and engineering	AIC	GIINF-GADE	3	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.4	Recuperaci¿n
+31/01/2025	15:00	150	11561	Operating System Fundamentals	FSO	GIINF-GADE	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.4	Recuperaci¿n
+31/01/2025	15:00	100	14008	Data Structures	EDA	GCD	2	A	1G 0.5, 1G 0.6	Recuperaci¿n primero parcial
+31/01/2025	15:00	150	11561	Operating System Fundamentals	FSO	GIINF-GMAT	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.4	Recuperaci¿n
+31/01/2025	15:00	150	11561	Operating System Fundamentals	FSO	GIINF	2	A	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.4	Recuperaci¿n
+31/01/2025	15:00	300	11486	Fundamentals of business Management	FOE	GCD-GIOI	2	A	031	
+31/01/2025	15:00	180	14530	Statistics	EST	GIIROB	2	A	1E 0.1	Recuperaci¿n
+31/01/2025	15:00	300	11486	Fundamentals of business Management	FOE	GCD-GIOI	2	A		
+31/01/2025	17:10	100	14008	Data Structures	EDA	GCD	2	A	1G 0.5, 1G 0.6	Recuperaci¿n segundo parcial
+31/01/2025	18:00	150	14025	Optimization	OPT	GCD	4	A	Aula 1G 0.8	Recuperaci¿n
+31/01/2025	18:00	150	11569	Software maintenance and evolution	MES	GIINF	4	A	1G 0.7	Recuperaci¿n
+31/01/2025	18:00	150	11591	Introduction to Interactive Computer Graphics Systems	SGI	GIINF	4	A	1G 0.3	Recuperaci¿n
+31/01/2025	18:00	150	11597	Business requirements analysis	ARN	GIINF-GADE	4	A	1G 1.5	Recuperaci¿n
+31/01/2025	18:00	150	11601	Organisational behaviour and change management	COR	GIINF-GADE	5	A	1E 1.1	Examen final
+03/02/2025	16:00	120	12990	Computer Networks	RED	GIINF	2	B	1G 0.1, 1G 0.4, 1G 0.5, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7,Aula 1G 0.8	Recuperación primer parcial
+03/02/2025	16:00	120	12990	Computer Networks	RED	GIINF-GMAT	3	B	1G 0.1, 1G 0.4, 1G 0.5, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7,Aula 1G 0.8	Recuperación primer parcial
+03/02/2025	16:00	120	12990	Computer Networks	RED	GIINF-GADE	2	B	1G 0.1, 1G 0.4, 1G 0.5, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7,Aula 1G 0.8	Recuperación primer parcial
+03/03/2025	15:00	150	14103	Management of innovation and technology in health	GITS	GIINF	4	B	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial. En aula de clase
+05/03/2025	15:00	90	14036	Data Analysis in Security	DAS	GCD	4	B	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial
+05/03/2025	15:30	150	33432	Graphics and Multimedia Applications	AGM	MUIINF	1	B	ETS DE INGENIERÍA INFORMÁTICA	Presentaciones Trabajo 1. En el laboratorio.
+05/03/2025	18:30	150	33434	High-Performance Computing	CAP	MUIINF	1	B	ETS DE INGENIERÍA INFORMÁTICA	Evaluación seminario Cloud. Se realiza en laboratorio de clase.
+13/03/2025	11:00	90	14039	English B2 - Upper Intermediate English for Data Science	IN2	GCD	4	B	ETS DE INGENIERÍA INFORMÁTICA	Exam 1. Se realiza en el aula de clase
+24/03/2025	08:00	90	11538	Fundamentals of business management	FOE	GIINF	1	B	1G 0.1, 1G 0.2, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Primer parcial
+24/03/2025	11:00	150	11586	Computability and complexity	CMC	GIINF	3	B	1G 0.5, 1G 0.6	Primer parcial
+25/03/2025	08:00	300	11476	Industrial Business and Economy	EMPR.	GCD-GIOI	2	B		
+25/03/2025	13:00	150	14550	Discrete Control of Industrial Processes	CDPI	GIIROB	3	B	1E 0.3	Defensa 1¿ trabajo.
+26/03/2025	16:00	180	11583	Automation and Robotics for the Digital Industry	ARI	GIINF	3	B	SIMULACIÓN 1	Defensa trabajo académico
+27/03/2025	08:00	180	11750	Financial Mathematics	MF	GIINF-GADE	2	B	1.1, 1.2, 1.3, 1.4, 1.5	B1
+27/03/2025	12:00	180	11761	Operational research	IO	GIINF-GADE	4	B	0.3	B1
+27/03/2025	12:00	90	11737	Introduction to Finance	IF	GIINF-GADE	1	B	0.1, 0.2	B1
+27/03/2025	16:00	120	11748	Production and Operation Management	DPO	GIINF-GADE	3	B	0.3, 0.4,LABORATORIO 1.2,LABORATORIO 1.4	B1
+28/03/2025	09:00	180	11763	Quantitative methods to support decision making	MCTD	GIINF-GADE	4	B	AM1. MÓDULO 1	B1
+28/03/2025	09:00	90	11735	Introduction to Business Administration	IAE	GIINF-GADE	1	B	2.2,LABORATORIO 0.2	B1
+28/03/2025	12:00	180	11751	Financial Management	DF	GIINF-GADE	5	B	1.1, 1.2	B1
+28/03/2025	12:00	180	11758	Spanish Economy	EE	GIINF-GADE	2	B	1.4, 1.5	B1
+28/03/2025	16:30	180	11760	Macroeconomics II	MACRII	GIINF-GADE	3	B	0.1, 0.2, 0.3, 0.4, 1.1, 1.2, 1.3, 1.4, 1.5	B1
+31/03/2025	08:00	240	11736	Introduction to Accounting	IC	GIINF-GADE	1	B	1.1, 1.2, 1.3, 1.4, 1.5	B1
+31/03/2025	09:00	180	11756	Tax management in companies	GFE	GIINF-GADE	4	B	2.2	B1
+31/03/2025	11:00	150	11610	Web development	DEW	GIINF	3	B	1G 0.4, 1G 1.4	Examen parcial antes de ex¿menes parciales
+31/03/2025	12:00	180	11742	Business Law	DE	GIINF-GADE	2	B	0.1, 0.2	B1
+31/03/2025	16:00	180	11747	Strategy and Organization	EDO	GIINF-GADE	3	B	0.4, 1.1, 1.2, 1.3, 1.4, 1.5	B1
+01/04/2025	08:00	240	11746	Financial and Corporate Accounting	CFS	GIINF-GADE	3	B	0.1	B1
+01/04/2025	12:30	180	11759	Microeconomics II	MICRII	GIINF-GADE	2	B	0.1, 0.2, 0.3, 0.4, 1.1, 1.2, 1.3, 1.4	B1
+01/04/2025	16:00	120	14026	Databases	BDA	GCD-GIOI	2	B	1G 1.6	Primer parcial.
+01/04/2025	16:00	180	11745	Cost accounting and introduction to auditing	CGIA	GIINF-GADE	4	B	1.3	B1
+01/04/2025	16:30	180	11738	Microeconomics I	MICR I	GIINF-GADE	1	B	1.1, 1.2	B1
+02/04/2025	08:00	150	11552	Computer Organization	ETC	GIINF	2	B	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4	Primer parcial
+02/04/2025	08:00	90	14529	Programming	PRG	GIIROB	1	B	1E 1.3, 1E 1.4	Primer parcial teoría
+02/04/2025	08:00	150	11552	Computer Organization	ETC	GIINF-GMAT	2	B	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4	Primer parcial
+02/04/2025	08:00	150	13998	Lineal Algebra	ALG	GCD-GIOI	1	B	1G 1.5, 1G 1.7	Primer parcial
+02/04/2025	08:00	150	13998	Lineal Algebra	ALG	GCD	1	B	1G 1.5, 1G 1.7	Primer parcial
+02/04/2025	08:00	240	11744	Accounting analysis and consolidation	ACC	GIINF-GADE	5	B	0.3, 0.4, 1.1, 1.2, 1.3, 1.4, 1.5	B1
+02/04/2025	08:00	150	11552	Computer Organization	ETC	GIINF-GADE	2	B	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4	Primer parcial
+02/04/2025	10:00	60	14529	Programming	PRG	GIIROB	1	B	1E 1.3, 1E 1.4	Primer parcial prácticas
+02/04/2025	15:00	120	14531	Marco Legal de la Empresa	MLE	GIIROB	2	B	1G 1.7	Primer parcial teoría
+02/04/2025	15:00	150	14015	Data acquisition and transmission	ATD	GCD-GIOI	2	B	1E 2.0	Primer parcial teoría.
+02/04/2025	15:00	150	11539	Statistics	EST	GIINF	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4	Primer parcial
+02/04/2025	15:00	150	14024	Discrete modeling and information theory	MDTI	GCD	2	B	1E 1.2, 1E 1.3, 1E 1.4	Primer Parcial
+02/04/2025	16:00	180	13307	English for Business Communication B2	ICE	GIINF-GADE	3	B	AM2. MÓDULO 2	B1
+02/04/2025	16:00	180	13868	Mathematical Models for Business Administration II	MADEII	GIINF-GADE	1	B	0.1, 0.2, 0.3, 0.4, 1.1, 1.2, 1.3	B1
+02/04/2025	16:30	60	11588	Information storage and retrieval systems	SAR	GIINF	3	B	LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 7,LAB. DSIC 8	Laboratorio
+02/04/2025	17:45	60	14024	Discrete modeling and information theory	MDTI	GCD	2	B	1E 1.2, 1E 1.3, 1E 1.4	1 parcial pr¿cticas
+02/04/2025	18:00	150	11588	Information storage and retrieval systems	SAR	GIINF	3	B	1G 0.5, 1G 0.6	Primer parcial
+02/04/2025	18:00	150	11601	Organisational behaviour and change management	COR	GIINF	3	B	1G 1.7	Primer parcial
+02/04/2025	18:00	100	11610	Web development	DEW	GIINF	3	B	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 4,LAB. DSIC 5,LAB. DSIC 7	Examen laboratorio
+02/04/2025	18:00	90	14015	Data acquisition and transmission	ATD	GCD-GIOI	2	B	1E 2.0	Examen pr¿cticas.
+03/04/2025	08:00	150	11546	Algebra	ALG	GIINF	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4	Primer parcial
+03/04/2025	09:00	120	14005	Statistical models for decision making I	MET I	GCD-GIOI	1	B	1G 1.5, 1G 1.7	Primer parcial
+03/04/2025	09:00	120	14005	Statistical models for decision making I	MET I	GCD	1	B	1G 1.5, 1G 1.7	Primer parcial
+03/04/2025	11:00	150	11549	Parallel computing	CPA	GIINF-GMAT	3	B	1E 0.0	Primer parcial
+03/04/2025	15:00	120	11550	Ethics and Professionalism	DYP	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial. Se realiza junto al GIINF.
+03/04/2025	15:00	120	14008	Data Structures	EDA	GCD-GIOI	2	B	1E 2.0	Primer parcial
+03/04/2025	15:00	120	11550	Ethics and Professionalism	DYP	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4	Primer parcial
+03/04/2025	17:30	60	14008	Data Structures	EDA	GCD-GIOI	2	B	LAB. DSIC 0	Parcial prácticas.
+04/04/2025	08:00	150	11562	Concurrency and Distributed Systems	CSD	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial. Se realiza junto al GIINF
+04/04/2025	08:00	90	14003	Programming	PRG	GCD-GIOI	1	B	1E 0.0, 1E 0.1, 1E 0.2, 1E 0.3	Primer parcial teor¿a
+04/04/2025	08:00	150	11562	Concurrency and Distributed Systems	CSD	GIINF	2	B	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Primer parcial
+04/04/2025	08:00	90	14003	Programming	PRG	GCD	1	B	1E 0.0, 1E 0.1, 1E 0.2, 1E 0.3	Primer parcial teor¿a
+04/04/2025	08:00	150	14523	Physics Foundations on Robotics	FFR	GIIROB	1	B	1G 1.7	Primer Parcial
+04/04/2025	10:00	60	14003	Programming	PRG	GCD-GIOI	1	B	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 4,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Examen pr¿cticas.
+04/04/2025	10:00	60	14003	Programming	PRG	GCD	1	B	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 4,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Examen pr¿cticas.
+04/04/2025	11:00	60	14557	Mobile Robotics	ROM	GIIROB	3	B	L. 1B 0.1 - R. PERLMAN,L. 1B 0.2 - R. STALLMAN,L. 1B 0.3 - G. HOPPER,L. 1B 0.4 - E. DIJKSTRA	Primer parcial.
+04/04/2025	15:00	90	14010	Descriptive and predictive models I	MDP I	GCD-GIOI	2	B	1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Primer parcial teoria
+04/04/2025	15:00	90	14010	Descriptive and predictive models I	MDP I	GCD	2	B	1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Primer parcial teoria
+04/04/2025	15:00	120	14535	Real-time systems	STR	GIIROB	2	B	1E 1.3, 1E 1.4	Primer parcial
+04/04/2025	16:00	210	11543	Programming	PRG	GIINF-GADE	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.3, 1G 1.4,Aula 1G 0.8	1er parcial pr¿cticas+descanso+2do parcial teor¿a
+04/04/2025	16:00	210	11543	Programming	PRG	GIINF-GMAT	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.3, 1G 1.4,Aula 1G 0.8	1er parcial pr¿cticas+descanso+2do parcial teor¿a
+04/04/2025	16:00	210	11543	Programming	PRG	GIINF	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.3, 1G 1.4,Aula 1G 0.8	1er parcial pr¿cticas+descanso+2do parcial teor¿a
+04/04/2025	17:00	90	14010	Descriptive and predictive models I	MDP I	GCD	2	B	1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Primer parcial pr¿cticas
+04/04/2025	17:00	90	14010	Descriptive and predictive models I	MDP I	GCD-GIOI	2	B	1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Primer parcial pr¿cticas
+04/04/2025	18:00	150	11600	Management and configuration of information system's architecture	GCA	GIINF	3	B	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Parcial en laboratorio Ada Byron y Alan Turing
+04/04/2025	18:00	150	11585	Optimization Techniques	TOP	GIINF	3	B	1E 0.3, 1E 1.4	Primer parcial
+04/04/2025	18:00	60	11583	Automation and Robotics for the Digital Industry	ARI	GIINF	3	B	SIMULACIÓN 1	Primer parcial
+04/04/2025	18:00	150	11573	Industrial Formal Methods	MFI	GIINF	3	B	1G 1.5, 1G 1.7	Primer parcial
+04/04/2025	18:00	180	11607	Design and configuration of local area networks	RAL	GIINF	3	B	1E 0.0, 1E 0.1, 1E 0.2	Primer parcial
+07/04/2025	08:00	150	11544	Computer Technology.	TCO	GIINF	1	B	1G 0.1, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7,Aula 1G 0.8	Primer parcial
+07/04/2025	08:00	150	11544	Computer Technology.	TCO	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial. Mismas aulas GIINF
+07/04/2025	08:00	150	14527	Circuit Technology	TCR	GIIROB	1	B	1E 1.3, 1E 1.4	Primer parcial
+07/04/2025	08:00	300	11471	Physics II	FIS II	GCD-GIOI	1	B	1E 1.2	
+07/04/2025	08:00	120	14007	Algorithmics	ALT	GCD	3	B	1E 0.0, 1E 0.1, 1E 0.2	Primer parcial.
+07/04/2025	10:30	90	14006	Statistical models for decision-making II	MET II	GCD-GIOI	2	B	1E 2.0	Primer parcial.
+07/04/2025	10:30	60	14007	Algorithmics	ALT	GCD	3	B	LAB. DSIC 0,LAB. DSIC 5,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Pr¿cticas en labs dsic
+07/04/2025	11:00	120	11605	Design, configuration, and evaluation of computer systems	DCE	GIINF	3	B	1G 1.1, 1G 1.2	Primer parcial
+07/04/2025	15:00	120	14546	Data Management for Industry	GDI	GIIROB	2	B	1E 1.3, 1E 1.4	Parcial
+07/04/2025	15:00	120	11556	Human-Computer Interfaces	IPC	GIINF-GMAT	3	B	ETS DE INGENIERÍA INFORMÁTICA	Primer parcial. Se realiza en aulas de GIINF
+07/04/2025	15:00	90	14027	Data Management	GDA	GCD	2	B	1G 1.7,Aula 1G 0.8	Primer parcial teoría.
+07/04/2025	15:00	120	11556	Human-Computer Interfaces	IPC	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4	Primer parcial
+08/04/2025	08:00	90	14001	Fundamentals of computers and operating systems	FCO	GCD	1	B	1E 2.1, 1E 2.2, 1E 2.3	Primer parcial teoría
+08/04/2025	08:00	90	14001	Fundamentals of computers and operating systems	FCO	GCD-GIOI	2	B	1E 2.1, 1E 2.2, 1E 2.3	Primer parcial teoría
+08/04/2025	08:00	150	11551	Data Structures and Algorithms	EDA	GIINF	2	B	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Primer parcial
+08/04/2025	09:00	90	14554	Service and Industrial Robots	RIS	GIIROB	1	B	1G 1.7	Test 1
+08/04/2025	11:00	120	14536	3D Vision	V3D	GIIROB	3	B	1E 0.3	Presentación proyectos
+08/04/2025	11:00	150	14921	Resource Management in the Cloud	GRN	GIINF	3	B	1G 1.4	Primer parcial
+08/04/2025	11:00	150	11589	Perception	PER	GIINF	3	B	1G 0.5, 1G 0.6	primer parcial
+08/04/2025	11:00	120	11612	Database technology	TBD	GIINF	3	B	1G 1.1, 1G 1.2	Primer parcial
+08/04/2025	15:00	150	14000	Discrete Mathematics	MAD	GCD-GIOI	1	B	1G 1.3	Primer parcial
+08/04/2025	15:00	120	11564	Automata Theory and Formal Languages	TAL	GIINF-GMAT	2	B	1E 2.0	Primer parcial
+08/04/2025	15:00	120	14027	Data Management	GDA	GCD	2	B	LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 4,LAB. DSIC 5,LAB. DSIC 7,LAB. DSIC 8	Examen prácticas.
+09/04/2025	18:30	150	33434	High-Performance Computing	CAP	MUIINF	1	B	ETS DE INGENIERÍA INFORMÁTICA	Evaluación seminario CUDA. Se realiza en el laboratorio de clase
+14/04/2025	09:00	150	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GMAT	2	B	1E 2.0	Primer parcial
+14/04/2025	15:00	150	14103	Management of innovation and technology in health	GITS	GIINF	4	B	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial. En aula de clase
+15/04/2025	13:00	150	14550	Discrete Control of Industrial Processes	CDPI	GIIROB	3	B	1E 0.3	Defensa 2ndo trabajo.
+15/04/2025	13:00	90	14094	Quantum computing	QCO	GIINF	4	B	ETS DE INGENIERÍA INFORMÁTICA	Examen final. En el aula de clase
+16/04/2025	09:30	150	14100	Cybersecurity in mobile devices	CDM	GIINF	4	B	ETS DE INGENIERÍA INFORMÁTICA	Final. En aula de clase.
+30/04/2025	15:30	150	33432	Graphics and Multimedia Applications	AGM	MUIINF	1	B	ETS DE INGENIERÍA INFORMÁTICA	Presentaciones Trabajo 2. En el laboratorio.
+30/04/2025	16:30	150	14098	Hacking ético	HET	GIINF	4	B	1G 1.5	Examen final. En el aula de clase
+02/05/2025	11:00	150	14099	web security	SEW	GIINF	4	B	1G 1.3	Recuperaci¿n
+05/05/2025	09:00	150	11650	Algorithm for Problem Solving	CACM	GIINF	4	B	1G 0.3	Recuperaci¿n.
+05/05/2025	15:00	150	14103	Management of innovation and technology in health	GITS	GIINF	4	B	1G 0.2	Recuperaci¿n.
+05/05/2025	18:30	90	14036	Data Analysis in Security	DAS	GCD	4	B	1G 1.3	Final
+06/05/2025	09:30	90	14100	Cybersecurity in mobile devices	CDM	GIINF	4	B	Lab. Fundamentos de Computadores (2S-18)	Recuperaci¿n
+06/05/2025	13:00	150	14094	Quantum computing	QCO	GIINF	4	B	1G 1.3	Recuperación
+06/05/2025	16:00	120	14042	Algorithmic techniques for big data	TAD	GCD	4	B	1G 1.3	Examen Final
+06/05/2025	16:00	90	33433	Audit, Quality and Management of Information Systems	ACG	MUIINF	1	B	1G 0.0	Examen
+06/05/2025	16:00	150	14096	Social web behaviour & network analysis	SWB	GIINF	4	B	L. 1B 0.2 - R. STALLMAN	Recuperaci¿n final
+08/05/2025	11:00	90	14039	English B2 - Upper Intermediate English for Data Science	IN2	GCD	4	B	1E 1.1	Exam 2
+08/05/2025	15:00	150	14098	Hacking ético	HET	GIINF	4	B	1E 0.0	Recuperaci¿n final
+12/05/2025	09:30	240	11744	Accounting analysis and consolidation	ACC	GIINF-GADE	5	B		UB2
+12/05/2025	12:00	120	11548	Databases and information systems	BDA	GIINF-GMAT	3	B	1G 1.3	Primer parcial
+14/05/2025	09:00	180	11751	Financial Management	DF	GIINF-GADE	5	B		UB2
+14/05/2025	11:00	120	14039	English B2 - Upper Intermediate English for Data Science	IN2	GCD	4	B	1E 1.1	Resit Exam
+14/05/2025	11:30	120	14028	Evaluation, deployment and monitorisation of models	EDM	GCD	3	B	1G 1.3, 1G 1.7	Primer parcial
+14/05/2025	18:30	150	33434	High-Performance Computing	CAP	MUIINF	1	B	ETS DE INGENIERÍA INFORMÁTICA	Evaluación seminario Parallel Toolbox. En laboratorio de clase
+15/05/2025	09:00	90	14554	Service and Industrial Robots	RIS	GIIROB	1	B	1G 1.7	Test 2
+15/05/2025	09:00	180	11749	Human Resources	DRRHH	GIINF-GADE	5	B		UB2
+19/05/2025	08:00	330	11556	Human-Computer Interfaces	IPC	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Examen prácticas. Varios turnos
+19/05/2025	08:00	330	11556	Human-Computer Interfaces	IPC	GIINF-GMAT	3	B	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas. Varios turnos
+19/05/2025	09:00	90	14000	Discrete Mathematics	MAD	GCD-GIOI	1	B	ETS DE INGENIERÍA INFORMÁTICA	Examen de prácticas en el laboratorio.
+19/05/2025	11:30	90	11583	Automation and Robotics for the Digital Industry	ARI	GIINF	3	B	SIMULACIÓN 1	Recuperación oral defensa trabajo académico. En laboratorio del departamento
+20/05/2025	13:00	150	14550	Discrete Control of Industrial Processes	CDPI	GIIROB	3	B	1E 0.3	Defensa recuperación trabajo.
+26/05/2025	09:00	35	14001	Fundamentals of computers and operating systems	FCO	GCD	1	B	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas de laboratorio. Grupo 1A1
+26/05/2025	09:00	120	11583	Automation and Robotics for the Digital Industry	ARI	GIINF	3	B	SIMULACIÓN 1	Examen oral de prácticas. En laboratorio departamento.
+26/05/2025	09:00	35	14001	Fundamentals of computers and operating systems	FCO	GCD-GIOI	2	B	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas de laboratorio. Grupo 1A1
+26/05/2025	09:30	240	11744	Accounting analysis and consolidation	ACC	GIINF-GADE	5	B		UB3
+26/05/2025	10:00	35	14001	Fundamentals of computers and operating systems	FCO	GCD	1	B	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas de laboratorio. Grupo 1A2
+26/05/2025	10:00	120	14559	Project RII 3: Intelligent robots	PR3	GIIROB	3	B	ETS DE INGENIERÍA INFORMÁTICA	Presentación de trabajos en clase
+26/05/2025	10:00	35	14001	Fundamentals of computers and operating systems	FCO	GCD-GIOI	2	B	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas de laboratorio. Grupo 1A2
+26/05/2025	12:00	120	14559	Project RII 3: Intelligent robots	PR3	GIIROB	3	B	ETS DE INGENIERÍA INFORMÁTICA	Presentación de trabajos en clase
+26/05/2025	12:30	60	11564	Automata Theory and Formal Languages	TAL	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Examen pr¿cticas. En el laboratorio de pr¿cticas de clase
+26/05/2025	15:00	35	14001	Fundamentals of computers and operating systems	FCO	GCD	1	B	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas de laboratorio. Grupo 1B1
+26/05/2025	15:00	35	14001	Fundamentals of computers and operating systems	FCO	GCD-GIOI	2	B	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas de laboratorio. Grupo 1B1
+26/05/2025	16:00	35	14001	Fundamentals of computers and operating systems	FCO	GCD-GIOI	2	B	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas de laboratorio. Grupo 1B2
+26/05/2025	16:00	35	14001	Fundamentals of computers and operating systems	FCO	GCD	1	B	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas de laboratorio. Grupo 1B2
+26/05/2025	17:30	60	14545	Computer Graphics	IGR	GIIROB	2	B	1G 1.1, 1G 1.2	Prueba seguimiento
+27/05/2025	15:30	150	33433	Audit, Quality and Management of Information Systems	ACG	MUIINF	1	B	ETS DE INGENIERÍA INFORMÁTICA	Presentación trabajos
+28/05/2025	09:00	180	11751	Financial Management	DF	GIINF-GADE	5	B		UB3
+30/05/2025	08:00	120	14559	Project RII 3: Intelligent robots	PR3	GIIROB	3	B	ETS DE INGENIERÍA INFORMÁTICA	Presentación de trabajos en clase
+30/05/2025	09:00	180	11749	Human Resources	DRRHH	GIINF-GADE	5	B		UB3
+30/05/2025	12:30	120	14559	Project RII 3: Intelligent robots	PR3	GIIROB	3	B	ETS DE INGENIERÍA INFORMÁTICA	Presentación de trabajos en clase
+30/05/2025	13:00	90	11583	Automation and Robotics for the Digital Industry	ARI	GIINF	3	B	SIMULACIÓN 1	Examen oral de prácticas. En laboratorio asignado a prácticas.
+02/06/2025	08:30	150	11550	Ethics and Professionalism	DYP	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial 150min
+02/06/2025	08:30	150	11550	Ethics and Professionalism	DYP	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,L. 1G 1.1 - T. QUEVEDO	Segundo parcial 150min
+02/06/2025	08:30	180	11761	Operational research	IO	GIINF-GADE	4	B		B2
+02/06/2025	08:30	150	14029	Natural language and information retrieval	LNR	GCD	3	B	1G 1.5, 1G 1.7	Examen final teor¿a
+02/06/2025	09:00	180	11750	Financial Mathematics	MF	GIINF-GADE	2	B		B2
+02/06/2025	11:15	150	14550	Discrete Control of Industrial Processes	CDPI	GIIROB	3	B	1G 1.7	Examen final
+02/06/2025	11:30	90	11550	Ethics and Professionalism	DYP	GIINF	2	B	L. 1G 1.1 - T. QUEVEDO	Examen prácticas alumnos dispensa
+02/06/2025	11:30	150	13998	Lineal Algebra	ALG	GCD-GIOI	1	B	1G 1.1, 1G 1.2, 1G 1.4	Segundo Parcial
+02/06/2025	11:30	90	11550	Ethics and Professionalism	DYP	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Examen prácticas alumnos dispensa. Junto a GIINF
+02/06/2025	11:30	150	13998	Lineal Algebra	ALG	GCD	1	B	1G 1.1, 1G 1.2, 1G 1.4	Segundo Parcial
+02/06/2025	15:00	240	11746	Financial and Corporate Accounting	CFS	GIINF-GADE	3	B		B2
+02/06/2025	15:00	90	11538	Fundamentals of business management	FOE	GIINF	1	B	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.7, 1G 1.4, 1G 1.7	Segundo parcial
+02/06/2025	15:00	150	14024	Discrete modeling and information theory	MDTI	GCD	2	B	1G 1.1, 1G 1.2, 1G 1.3	Segundo Parcial
+02/06/2025	15:00	120	14535	Real-time systems	STR	GIIROB	2	B	1E 1.3, 1E 1.4	Segundo Parcial
+02/06/2025	15:00	120	14531	Marco Legal de la Empresa	MLE	GIIROB	2	B	1E 0.1, 1E 0.2	Segundo Parcial teor¿a
+02/06/2025	15:30	60	33432	Graphics and Multimedia Applications	AGM	MUIINF	1	B	ETS DE INGENIERÍA INFORMÁTICA	Examen onine
+02/06/2025	16:00	90	11735	Introduction to Business Administration	IAE	GIINF-GADE	1	B		B2
+02/06/2025	17:45	120	14024	Discrete modeling and information theory	MDTI	GCD	2	B	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	2ndo parcial prácticas
+02/06/2025	18:00	150	11607	Design and configuration of local area networks	RAL	GIINF	3	B	1G 1.6, 1G 1.7	Segundo parcial
+02/06/2025	18:00	150	11571	Software Process	PSW	GIINF	3	B	1G 0.4	Examen final
+03/06/2025	08:30	120	14029	Natural language and information retrieval	LNR	GCD	3	B	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 6,LAB. DSIC 7	Examen final prácticas
+03/06/2025	08:30	120	12990	Computer Networks	RED	GIINF-GADE	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial.
+03/06/2025	08:30	120	12990	Computer Networks	RED	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial.
+03/06/2025	08:30	150	14523	Physics Foundations on Robotics	FFR	GIIROB	1	B	1G 1.7	Segundo Parcial
+03/06/2025	08:30	120	12990	Computer Networks	RED	GIINF-GMAT	3	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial.
+03/06/2025	08:30	90	14006	Statistical models for decision-making II	MET II	GCD-GIOI	2	B	1G 1.3	Segundo parcial.
+03/06/2025	11:00	150	11589	Perception	PER	GIINF	3	B	1G 0.5, 1G 0.6	segundo parcial
+03/06/2025	11:00	120	11612	Database technology	TBD	GIINF	3	B	LAB. DSIC 0,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Examen prácticas
+03/06/2025	15:00	210	11543	Programming	PRG	GIINF-GADE	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.3, 1G 1.4,Aula 1G 0.8	2ndo parcial pr¿cticas+descanso+2do parcial teor¿a
+03/06/2025	15:00	150	11583	Automation and Robotics for the Digital Industry	ARI	GIINF	3	B	SIMULACIÓN 1	Segundo parcial
+03/06/2025	15:00	210	11543	Programming	PRG	GIINF	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.3, 1G 1.4,Aula 1G 0.8	2ndo parcial pr¿cticas+descanso+2do parcial teor¿a
+03/06/2025	15:00	210	11543	Programming	PRG	GIINF-GMAT	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.3, 1G 1.4,Aula 1G 0.8	2ndo parcial pr¿cticas+descanso+2do parcial teor¿a
+03/06/2025	15:00	300	11476	Industrial Business and Economy	EMPR.	GCD-GIOI	2	B		
+03/06/2025	15:30	150	33433	Audit, Quality and Management of Information Systems	ACG	MUIINF	1	B		Presentación trabajos
+04/06/2025	08:30	150	14541	Industrial networks	RIN	GIIROB	3	B	1G 1.1, 1G 1.2	Ex¿men final
+04/06/2025	09:00	150	11600	Management and configuration of information system's architecture	GCA	GIINF	3	B	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Parcial en laboratorio Ada Byron y Alan Turing
+04/06/2025	11:00	180	11471	Physics II	FIS II	GCD-GIOI	1	B		
+04/06/2025	15:00	90	14027	Data Management	GDA	GCD	2	B	1G 1.1, 1G 1.2, 1G 1.4	Segundo parcial.
+04/06/2025	15:30	150	33432	Graphics and Multimedia Applications	AGM	MUIINF	1	B	ETS DE INGENIERÍA INFORMÁTICA	Presentaciones Trabajo 3. En el laboratorio.
+04/06/2025	18:30	150	33434	High-Performance Computing	CAP	MUIINF	1	B	ETS DE INGENIERÍA INFORMÁTICA	Test evaluación teoría
+05/06/2025	08:30	90	14001	Fundamentals of computers and operating systems	FCO	GCD-GIOI	2	B	1G 0.5, 1G 0.6, 1G 0.7	Segundo parcial teor¿a.
+05/06/2025	08:30	90	14001	Fundamentals of computers and operating systems	FCO	GCD	1	B	1G 0.5, 1G 0.6, 1G 0.7	Segundo parcial teor¿a.
+05/06/2025	08:30	150	11546	Algebra	ALG	GIINF	1	B	1G 0.2, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7,Aula 1G 0.8	Segundo parcial
+05/06/2025	11:00	150	11585	Optimization Techniques	TOP	GIINF	3	B	1G 0.5, 1G 0.6	Segundo parcial
+05/06/2025	15:00	120	11605	Design, configuration, and evaluation of computer systems	DCE	GIINF	3	B	1G 1.1, 1G 1.2	Segundo parcial
+05/06/2025	17:30	120	11605	Design, configuration, and evaluation of computer systems	DCE	GIINF	3	B	1G 1.1, 1G 1.2	Recuperación primer parcial
+06/06/2025	08:30	150	14023	Continuous modelling and simulation	MSC	GCD	3	B	1G 1.5, 1G 1.7	Final.
+06/06/2025	08:30	150	11552	Computer Organization	ETC	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+06/06/2025	08:30	150	11552	Computer Organization	ETC	GIINF-GADE	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+06/06/2025	08:30	150	11552	Computer Organization	ETC	GIINF-GMAT	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+06/06/2025	11:30	120	14529	Programming	PRG	GIIROB	1	B	1G 1.7	Segundo parcial teoría
+06/06/2025	13:45	60	14529	Programming	PRG	GIIROB	1	B	1G 1.7	Segundo parcial pr¿cticas
+06/06/2025	15:00	150	14000	Discrete Mathematics	MAD	GCD-GIOI	1	B	1G 1.3	Segundo parcial
+06/06/2025	15:00	60	14557	Mobile Robotics	ROM	GIIROB	3	B	L. 1B 0.1 - R. PERLMAN,L. 1B 0.2 - R. STALLMAN,L. 1B 0.3 - G. HOPPER,L. 1B 0.4 - E. DIJKSTRA	Segundo parcial.
+06/06/2025	15:00	150	11548	Databases and information systems	BDA	GIINF-GMAT	3	B	1G 1.0	Segundo parcial
+06/06/2025	15:00	150	14921	Resource Management in the Cloud	GRN	GIINF	3	B	1G 1.4	Segundo parcial
+06/06/2025	15:00	150	14020	Project II, data integration and preparation	PROYII	GCD	2	B	1G 0.5, 1G 0.6, 1G 0.7	Final
+06/06/2025	15:00	150	11573	Industrial Formal Methods	MFI	GIINF	3	B	1G 1.5, 1G 1.7	Segundo Parcial
+06/06/2025	16:00	180	11737	Introduction to Finance	IF	GIINF-GADE	1	B		B2
+09/06/2025	08:00	180	11762	Econometrics	ECON	GIINF-GADE	3	B		B2
+09/06/2025	08:00	120	14007	Algorithmics	ALT	GCD	3	B	1E 0.0, 1E 0.1, 1E 0.2	Segundo parcial
+09/06/2025	08:30	90	14549	Intelligent agents	AIN	GIIROB	3	B	1G 1.7	Ex¿men final
+09/06/2025	08:30	150	11544	Computer Technology.	TCO	GIINF	1	B	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+09/06/2025	08:30	120	14008	Data Structures	EDA	GCD-GIOI	2	B	1G 1.3	Segundo parcial.
+09/06/2025	08:30	150	11544	Computer Technology.	TCO	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial. Mismas aulas GIINF
+09/06/2025	10:30	120	14007	Algorithmics	ALT	GCD	3	B	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Examen pr¿cticas labs dsic
+09/06/2025	11:00	60	14008	Data Structures	EDA	GCD-GIOI	2	B	LAB. DSIC 5	Examen pr¿cticas.
+09/06/2025	11:00	120	14941	Cibersecurity	CIB	GIINF	3	B	L. 1G 1.0 - L. TORVALDS,L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Final
+09/06/2025	11:00	150	11586	Computability and complexity	CMC	GIINF	3	B	1G 0.5, 1G 0.6	Segundo parcial
+09/06/2025	11:00	150	11568	Software Quality	CSO	GIINF	3	B	1G 1.5, 1G 1.7	Examen final
+09/06/2025	11:00	150	11611	System Administration	ADS	GIINF	3	B	1G 1.1, 1G 1.2	Examen final
+09/06/2025	11:30	150	11601	Organisational behaviour and change management	COR	GIINF	3	B	1G 1.3, 1G 1.4	Segundo parcial
+09/06/2025	12:00	180	11758	Spanish Economy	EE	GIINF-GADE	2	B		B2
+09/06/2025	15:00	120	11556	Human-Computer Interfaces	IPC	GIINF-GMAT	3	B	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial. Se realiza junto a GIINF.
+09/06/2025	15:00	120	14546	Data Management for Industry	GDI	GIIROB	2	B	1E 1.3, 1E 1.4	Examen final
+09/06/2025	15:00	120	11556	Human-Computer Interfaces	IPC	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+09/06/2025	15:00	150	14017	Data Sience Security	SDA	GCD	2	B	1G 1.5, 1G 1.7	Final.
+09/06/2025	16:00	180	11763	Quantitative methods to support decision making	MCTD	GIINF-GADE	4	B		B2
+09/06/2025	16:00	180	13868	Mathematical Models for Business Administration II	MADEII	GIINF-GADE	1	B		B2
+10/06/2025	08:00	240	11756	Tax management in companies	GFE	GIINF-GADE	4	B		B2
+10/06/2025	08:30	120	14003	Programming	PRG	GCD-GIOI	1	B	1E 0.0, 1E 0.1, 1E 0.2, 1E 0.3	Segundo parcial teor¿a
+10/06/2025	08:30	150	14554	Service and Industrial Robots	RIS	GIIROB	1	B	1G 1.7	Examen final
+10/06/2025	08:30	120	14003	Programming	PRG	GCD	1	B	1E 0.0, 1E 0.1, 1E 0.2, 1E 0.3	Segundo parcial teor¿a
+10/06/2025	08:30	180	11741	Statistical Methods in Economics	MEE	GIINF-GADE	2	B		B2
+10/06/2025	11:00	60	14003	Programming	PRG	GCD-GIOI	1	B	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 4,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Examen pr¿cticas.
+10/06/2025	11:00	60	14003	Programming	PRG	GCD	1	B	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 3,LAB. DSIC 4,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Examen pr¿cticas.
+10/06/2025	15:00	180	11760	Macroeconomics II	MACRII	GIINF-GADE	3	B		B2
+10/06/2025	15:00	150	11551	Data Structures and Algorithms	EDA	GIINF	2	B	1G 0.1, 1G 0.2, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4,Aula 1G 0.8	Segundo parcial
+10/06/2025	16:00	180	11738	Microeconomics I	MICR I	GIINF-GADE	1	B		B2
+11/06/2025	08:30	180	11759	Microeconomics II	MICRII	GIINF-GADE	2	B		B2
+11/06/2025	08:30	150	14015	Data acquisition and transmission	ATD	GCD-GIOI	2	B	1G 1.3	segundo parcial teoría.
+11/06/2025	08:30	150	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GMAT	2	B	1E 2.0	Segundo parcial
+11/06/2025	08:30	150	14021	Project III, data analysis	PRYIII	GCD	3	B	1E 0.0, 1E 0.1, 1E 0.2	Final.
+11/06/2025	08:30	100	11610	Web development	DEW	GIINF	3	B	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 4,LAB. DSIC 6	Examen laboratorio
+11/06/2025	08:30	150	11588	Information storage and retrieval systems	SAR	GIINF	3	B	1G 0.5, 1G 0.6	Segundo parcial
+11/06/2025	08:30	120	14536	3D Vision	V3D	GIIROB	3	B	1E 0.3	Presentaci¿n proyectos
+11/06/2025	10:40	150	11610	Web development	DEW	GIINF	3	B	1G 0.4, 1G 1.4	Examen teoría
+11/06/2025	11:00	180	11754	Marketing management	DC	GIINF-GADE	4	B		B2
+11/06/2025	11:00	150	14922	Deep Learning Systems for Industry	SDL	GIINF	3	B	1G 1.1, 1G 1.2	Examen final
+11/06/2025	11:30	90	14015	Data acquisition and transmission	ATD	GCD-GIOI	2	B	1G 1.3	Examen practicas
+11/06/2025	15:30	240	11748	Production and Operation Management	DPO	GIINF-GADE	3	B		B2
+12/06/2025	08:00	90	14010	Descriptive and predictive models I	MDP I	GCD	2	B	1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Segundo parcial teoría
+12/06/2025	08:00	90	14010	Descriptive and predictive models I	MDP I	GCD-GIOI	2	B	1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Segundo parcial teoría
+12/06/2025	08:30	150	11597	Business requirements analysis	ARN	GIINF	3	B	1E 1.4	Examen final
+12/06/2025	09:00	120	13763	Academic and professional German A2	AA24,5	IDIOMES	4	B		
+12/06/2025	09:00	120	13763	Academic and professional German A2	AA24,5	GCD	4	B		
+12/06/2025	09:00	120	13763	Academic and professional German A2	AA24,5	GIIROB	4	B		
+12/06/2025	09:00	120	13763	Academic and professional German A2	AA24,5	GIINF	4	B		
+12/06/2025	09:00	120	13785	Valencian for Administration - C1	VPAC14	IDIOMES	4	B		
+12/06/2025	09:00	120	13759	Academic and professional German A2	AA26	IDIOMES	4	B		
+12/06/2025	10:00	90	14010	Descriptive and predictive models I	MDP I	GCD-GIOI	2	B	1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Parcial pr¿cticas
+12/06/2025	10:00	90	14010	Descriptive and predictive models I	MDP I	GCD	2	B	1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Parcial pr¿cticas
+12/06/2025	11:00	150	11562	Concurrency and Distributed Systems	CSD	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Segundo parcial. Se realiza en las aulas del GIINF
+12/06/2025	11:00	120	13762	Academic and professional German A1	AA14,5	GIIROB	4	B		
+12/06/2025	11:00	120	13762	Academic and professional German A1	AA14,5	GCD	4	B		
+12/06/2025	11:00	150	11562	Concurrency and Distributed Systems	CSD	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.1, 1G 1.2, 1G 1.4, 1G 1.7	Segundo parcial
+12/06/2025	11:00	120	13762	Academic and professional German A1	AA14,5	IDIOMES	4	B		
+12/06/2025	11:00	120	13758	Academic and professional German A1	AA16	IDIOMES	4	B		
+12/06/2025	11:00	120	13762	Academic and professional German A1	AA14,5	GIINF	4	B		
+12/06/2025	13:00	120	14067	Technical Valencian - C2	VTC2-4	GIIROB	4	B		
+12/06/2025	13:00	120	14067	Technical Valencian - C2	VTC2-4	GIINF	4	B		
+12/06/2025	13:00	120	14067	Technical Valencian - C2	VTC2-4	IDIOMES	4	B		
+12/06/2025	13:00	120	14065	Valencià tècnic - C2	VTC2-6	IDIOMES	4	B		
+12/06/2025	13:00	120	14067	Technical Valencian - C2	VTC2-4	GCD	4	B		
+12/06/2025	15:00	120	14545	Computer Graphics	IGR	GIIROB	2	B	1G 0.5, 1G 0.6	Final
+12/06/2025	15:00	150	11549	Parallel computing	CPA	GIINF-GMAT	3	B	1E 0.0	Segundo parcial
+12/06/2025	16:00	120	14242	Academic and professional Italian A2	IA26	IDIOMES	4	B		
+12/06/2025	16:00	240	11736	Introduction to Accounting	IC	GIINF-GADE	1	B		B2
+12/06/2025	16:00	120	14241	Academic and professional Italian A2	IA24,5	GIINF	4	B		
+12/06/2025	16:00	180	13307	English for Business Communication B2	ICE	GIINF-GADE	3	B		B2
+12/06/2025	16:00	120	14241	Academic and professional Italian A2	IA24,5	IDIOMES	4	B		
+12/06/2025	16:00	120	14241	Academic and professional Italian A2	IA24,5	GIIROB	4	B		
+12/06/2025	17:00	120	14066	Technical Valencian - C1	VTC1-4	GCD	4	B		
+12/06/2025	17:00	120	14066	Technical Valencian - C1	VTC1-4	IDIOMES	4	B		
+12/06/2025	17:00	120	14064	Technical Valencian - C1	VTC1-6	IDIOMES	4	B		
+12/06/2025	17:00	120	14066	Technical Valencian - C1	VTC1-4	GIINF	4	B		
+12/06/2025	17:00	120	14066	Technical Valencian - C1	VTC1-4	GIIROB	4	B		
+13/06/2025	08:30	150	11567	Model-Driven Software Development	DSM	GIINF	3	B	1G 0.4, 1G 0.7	Examen final
+13/06/2025	08:30	90	14919	Internet of Things	IDC	GIINF	3	B	1G 0.3	Test
+13/06/2025	08:30	120	11564	Automata Theory and Formal Languages	TAL	GIINF-GMAT	2	B	1E 2.0	Segundo parcial
+13/06/2025	08:30	150	14527	Circuit Technology	TCR	GIIROB	1	B	1E 1.3, 1E 1.4	Segundo Parcial
+13/06/2025	08:30	120	11612	Database technology	TBD	GIINF	3	B	1G 1.1, 1G 1.2	Segundo parcial
+13/06/2025	09:00	120	14005	Statistical models for decision making I	MET I	GCD	1	B	1G 1.5, 1G 1.7	Segundo Parcial
+13/06/2025	09:00	120	14005	Statistical models for decision making I	MET I	GCD-GIOI	1	B	1G 1.5, 1G 1.7	Segundo Parcial
+13/06/2025	09:00	180	11742	Business Law	DE	GIINF-GADE	2	B		B2
+13/06/2025	11:00	150	11587	Intelligent Agents	AIN	GIINF	3	B	1G 0.5, 1G 0.6	Examen final
+13/06/2025	11:00	150	14557	Mobile Robotics	ROM	GIIROB	3	B	1E 1.3	Defensa trabajos.
+13/06/2025	12:30	180	11745	Cost accounting and introduction to auditing	CGIA	GIINF-GADE	4	B		B2
+13/06/2025	16:00	180	11747	Strategy and Organization	EDO	GIINF-GADE	3	B		B2
+16/06/2025	08:30	60	14028	Evaluation, deployment and monitorisation of models	EDM	GCD	3	B	1E 0.1	Recuperaci¿n
+16/06/2025	08:30	150	11539	Statistics	EST	GIINF	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 0.7, 1G 1.0, 1G 1.1, 1G 1.2, 1G 1.4	Examen final
+16/06/2025	11:00	210	11555	Software engineering	ISW	GIINF-GMAT	3	B	1G 1.3	Examen final
+17/06/2025	08:30	330	14019	Project I: understanding data	PROY I	GCD-GIOI	1	B	1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Presentación trabajos
+17/06/2025	08:30	330	14019	Project I: understanding data	PROY I	GCD	1	B	1E 2.0, 1E 2.1, 1E 2.2, 1E 2.3	Presentación trabajos
+17/06/2025	11:00	150	11602	SI TI service management	GSE	GIINF	3	B	1G 1.1, 1G 1.2	Recuperación final
+18/06/2025	08:00	300	11476	Industrial Business and Economy	EMPR.	GCD-GIOI	2	B		
+19/06/2025	08:00	120	11556	Human-Computer Interfaces	IPC	GIINF-GMAT	3	B	ETS DE INGENIERÍA INFORMÁTICA	Recuperación prácticas. Se realiza junto a GIINF.
+19/06/2025	08:00	120	11556	Human-Computer Interfaces	IPC	GIINF	2	B	LAB. DSIC 0,LAB. DSIC 1,LAB. DSIC 2,LAB. DSIC 4,LAB. DSIC 5,LAB. DSIC 6,LAB. DSIC 7,LAB. DSIC 8	Recuperación prácticas. Varios turnos.
+19/06/2025	15:00	150	11607	Design and configuration of local area networks	RAL	GIINF	3	B	1G 0.4	Recuperación
+19/06/2025	15:00	180	14318	Discrete Mathematics	MATDIS	GIINF-GMAT	1	B	4D - B.3,4D - Aula 1.6	
+20/06/2025	08:30	240	11550	Ethics and Professionalism	DYP	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Final 120 min + descanso+ recuperaci¿n pr¿cticas 90 min. Junto al GIINF.
+20/06/2025	08:30	240	11550	Ethics and Professionalism	DYP	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4,L. 1G 1.1 - T. QUEVEDO	Final 120 min + descanso+ recuperación prácticas 90 min
+20/06/2025	08:30	120	14029	Natural language and information retrieval	LNR	GCD	3	B	LAB. DSIC 0,LAB. DSIC 6	Examen recuperaci¿n pr¿cticas.
+20/06/2025	11:00	180	11554	Project management	GPR	GIINF-GMAT	3	B	1G 0.5, 1G 0.6, 1G 1.7	Recuperación final
+20/06/2025	11:00	180	11554	Project management	GPR	GIINF	3	B	1G 0.5, 1G 0.6, 1G 1.7	Recuperación final
+20/06/2025	11:00	180	11554	Project management	GPR	GIINF-GADE	4	B	1G 0.5, 1G 0.6, 1G 1.7	Recuperación final
+20/06/2025	11:30	150	14029	Natural language and information retrieval	LNR	GCD	3	B	1E 0.1	Examen recuperaci¿n teor¿a.
+20/06/2025	15:30	90	33436	Intelligent Systems	SIN	MUIINF	1	B	1E 1.4	Examen final
+23/06/2025	08:30	150	13998	Lineal Algebra	ALG	GCD	1	B	Aula 1G 0.8	Recuperaci¿n
+23/06/2025	08:30	120	12990	Computer Networks	RED	GIINF-GADE	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n
+23/06/2025	08:30	120	12990	Computer Networks	RED	GIINF-GMAT	3	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n
+23/06/2025	08:30	150	13998	Lineal Algebra	ALG	GCD-GIOI	1	B	Aula 1G 0.8	Recuperaci¿n
+23/06/2025	08:30	120	12990	Computer Networks	RED	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n
+23/06/2025	11:00	150	14023	Continuous modelling and simulation	MSC	GCD	3	B	Aula 1G 0.8	Recuperación
+23/06/2025	15:00	240	11543	Programming	PRG	GIINF	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.7	Recuperaci¿n
+23/06/2025	15:00	240	11543	Programming	PRG	GIINF-GADE	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.7	Recuperaci¿n
+23/06/2025	15:00	150	14024	Discrete modeling and information theory	MDTI	GCD	2	B	1G 1.4	Recuperaci¿n
+23/06/2025	15:00	150	14006	Statistical models for decision-making II	MET II	GCD-GIOI	2	B	1E 2.0	Recuperaci¿n.
+23/06/2025	15:00	240	11543	Programming	PRG	GIINF-GMAT	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 0.5, 1G 0.6, 1G 1.1, 1G 1.2, 1G 1.7	Recuperaci¿n
+23/06/2025	18:00	60	11583	Automation and Robotics for the Digital Industry	ARI	GIINF	3	B	SIMULACIÓN 1	Recuperación primer parcial
+23/06/2025	18:00	150	11589	Perception	PER	GIINF	3	B	1G 0.7	Recuperación. 2 exámenes de 150 min.
+23/06/2025	18:00	150	11600	Management and configuration of information system's architecture	GCA	GIINF	3	B	L. 1G 1.2 - A. TURING,L. 1G 1.3 - A. BYRON	Recuperaci¿n en laboratorio Ada Byron y Alan Turing
+23/06/2025	18:00	150	11611	System Administration	ADS	GIINF	3	B	1G 1.4	Recuperaci¿n
+23/06/2025	18:00	150	11571	Software Process	PSW	GIINF	3	B	Aula 1G 0.8	Recuperación
+23/06/2025	19:15	150	11583	Automation and Robotics for the Digital Industry	ARI	GIINF	3	B	SIMULACIÓN 1	Recuperación segundo parcial
+25/06/2025	08:30	210	11552	Computer Organization	ETC	GIINF-GMAT	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.7	Recuperaci¿n 1B+2B
+25/06/2025	08:30	210	11552	Computer Organization	ETC	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.7	Recuperaci¿n 1B+2B
+25/06/2025	08:30	120	14001	Fundamentals of computers and operating systems	FCO	GCD	1	B	1E 0.2, 1E 0.3	Recuperaci¿n parciales
+25/06/2025	08:30	210	11552	Computer Organization	ETC	GIINF-GADE	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.7	Recuperaci¿n 1B+2B
+25/06/2025	08:30	180	14523	Physics Foundations on Robotics	FFR	GIIROB	1	B	1G 0.7	Recuperaci¿n
+25/06/2025	08:30	120	14001	Fundamentals of computers and operating systems	FCO	GCD-GIOI	2	B	1E 0.2, 1E 0.3	Recuperaci¿n parciales
+25/06/2025	09:00	120	13772	Academic and professional French B1	FB14,5	GIIROB	4	B		
+25/06/2025	09:00	120	13772	Academic and professional French B1	FB14,5	GIINF	4	B		
+25/06/2025	09:00	120	13772	Academic and professional French B1	FB14,5	GCD	4	B		
+25/06/2025	09:00	180	11761	Operational research	IO	GIINF-GADE	4	B		B3
+25/06/2025	09:00	120	13772	Academic and professional French B1	FB14,5	IDIOMES	4	B		
+25/06/2025	09:00	120	13768	Academic and professional French B1	FB16	IDIOMES	4	B	Aula Informática 3	
+25/06/2025	11:00	120	13769	Academic and Professional French B2	FB24,5	IDIOMES	4	B		
+25/06/2025	11:00	150	14550	Discrete Control of Industrial Processes	CDPI	GIIROB	3	B	Aula 1G 0.8	Recuperación
+25/06/2025	11:00	120	13773	French for Academic and Professional Purposes B2	FB26	IDIOMES	4	B		
+25/06/2025	11:00	120	13773	French for Academic and Professional Purposes B2	FB26	GIINF	4	B		
+25/06/2025	11:00	120	13773	French for Academic and Professional Purposes B2	FB26	GCD	4	B		
+25/06/2025	11:00	120	13773	French for Academic and Professional Purposes B2	FB26	GIIROB	4	B		
+25/06/2025	12:00	180	11762	Econometrics	ECON	GIINF-GADE	3	B		B3
+25/06/2025	13:00	120	13770	French for Academic and Professional Purposes A1	FA16	GCD	4	B		
+25/06/2025	13:00	120	13770	French for Academic and Professional Purposes A1	FA16	GIIROB	4	B		
+25/06/2025	13:00	120	13770	French for Academic and Professional Purposes A1	FA16	IDIOMES	4	B		
+25/06/2025	13:00	120	13766	Academic and professional French A1	FA14,5	IDIOMES	4	B		
+25/06/2025	13:00	120	13770	French for Academic and Professional Purposes A1	FA16	GIINF	4	B		
+25/06/2025	15:00	90	14027	Data Management	GDA	GCD	2	B	1G 1.4	Recuperación primer parcial
+25/06/2025	15:00	180	11538	Fundamentals of business management	FOE	GIINF	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2	Recuperación
+25/06/2025	15:00	120	14531	Marco Legal de la Empresa	MLE	GIIROB	2	B	Aula 1G 0.8	Recuperación teoría y prácticas
+25/06/2025	15:00	120	14535	Real-time systems	STR	GIIROB	2	B	1G 0.7	Recuperaci¿n
+25/06/2025	15:00	300	11471	Physics II	FIS II	GCD-GIOI	1	B		
+25/06/2025	16:00	180	11737	Introduction to Finance	IF	GIINF-GADE	1	B		B3
+25/06/2025	16:45	90	14027	Data Management	GDA	GCD	2	B	1G 1.4	Recuperación segundo parcial.
+25/06/2025	17:00	120	13771	French for academic and professional purposes - A2	FA26	GIIROB	4	B		
+25/06/2025	17:00	120	13771	French for academic and professional purposes - A2	FA26	GIINF	4	B		
+25/06/2025	17:00	120	13767	French for academic and professional purposes - A2	FA24,5	IDIOMES	4	B		
+25/06/2025	17:00	120	13771	French for academic and professional purposes - A2	FA26	IDIOMES	4	B		
+25/06/2025	17:00	120	13771	French for academic and professional purposes - A2	FA26	GCD	4	B		
+25/06/2025	18:00	150	11573	Industrial Formal Methods	MFI	GIINF	3	B	1G 0.4	Recuperaci¿n
+25/06/2025	18:00	150	14921	Resource Management in the Cloud	GRN	GIINF	3	B	Aula 1G 0.8	Recuperaci¿n
+25/06/2025	18:00	240	11585	Optimization Techniques	TOP	GIINF	3	B	1G 0.5, 1G 0.6	Recuperaci¿n
+25/06/2025	18:30	90	14027	Data Management	GDA	GCD	2	B	1G 1.4	Recuperación trabajos
+26/06/2025	08:00	180	11758	Spanish Economy	EE	GIINF-GADE	2	B		B3
+26/06/2025	08:30	35	14001	Fundamentals of computers and operating systems	FCO	GCD-GIOI	2	B	Lab. Sistemas Operativos (2S-17)	Recuperación prácticas
+26/06/2025	08:30	100	11610	Web development	DEW	GIINF	3	B	LAB. DSIC 0,LAB. DSIC 1	Recuperación laboratorio
+26/06/2025	08:30	35	14001	Fundamentals of computers and operating systems	FCO	GCD	1	B	Lab. Sistemas Operativos (2S-17)	Recuperación prácticas
+26/06/2025	09:30	180	14007	Algorithmics	ALT	GCD	3	B	1E 0.1	Recuperación
+26/06/2025	11:00	150	11610	Web development	DEW	GIINF	3	B	1G 1.7	Recuperación parciales
+26/06/2025	11:00	210	11548	Databases and information systems	BDA	GIINF-GMAT	3	B	1G 1.3	Recuperaci¿n
+26/06/2025	15:00	150	14000	Discrete Mathematics	MAD	GCD-GIOI	1	B	1G 1.3	Recuperaci¿n
+26/06/2025	16:00	240	13868	Mathematical Models for Business Administration II	MADEII	GIINF-GADE	1	B		B3
+26/06/2025	16:00	240	11746	Financial and Corporate Accounting	CFS	GIINF-GADE	3	B		B3
+27/06/2025	08:00	180	11754	Marketing management	DC	GIINF-GADE	4	B		B3
+27/06/2025	08:00	90	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GMAT	2	B	1E 2.0	Recuperaci¿n Teor¿a 2¿ Parcial.
+27/06/2025	08:30	180	11551	Data Structures and Algorithms	EDA	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n
+27/06/2025	08:30	180	14529	Programming	PRG	GIIROB	1	B	1G 0.7	Recuperaci¿n teor¿a
+27/06/2025	09:00	180	14005	Statistical models for decision making I	MET I	GCD-GIOI	1	B	1E 0.1, 1E 0.2	
+27/06/2025	09:00	180	14005	Statistical models for decision making I	MET I	GCD	1	B	1E 0.1, 1E 0.2	
+27/06/2025	09:40	90	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GMAT	2	B	1E 2.0	Recuperaci¿n Teor¿a 1¿ Parcial.
+27/06/2025	11:00	180	14541	Industrial networks	RIN	GIIROB	3	B	Aula 1G 0.8	Recuperación
+27/06/2025	11:30	60	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GMAT	2	B	1E 2.0	Recuperaci¿n Pr¿cticas 2¿ Parcial
+27/06/2025	12:00	180	11759	Microeconomics II	MICRII	GIINF-GADE	2	B		B3
+27/06/2025	12:40	45	11557	Programming Languages, Technologies and Paradigms	LTP	GIINF-GMAT	2	B	1E 2.0	Recuperaci¿n Pr¿cticas 1¿ Parcial.
+27/06/2025	15:00	90	11735	Introduction to Business Administration	IAE	GIINF-GADE	1	B		B3
+27/06/2025	15:00	150	14020	Project II, data integration and preparation	PROYII	GCD	2	B	1E 0.1, 1E 0.2	Recuperaci¿n.
+27/06/2025	15:00	120	14533	Embedded Systems	SEM	GIIROB	2	B	Lab. Sistemas Operativos (2S-17)	Recuperación
+27/06/2025	15:00	100	14008	Data Structures	EDA	GCD-GIOI	2	B	1E 2.0	Recuperación primero parcial
+27/06/2025	15:00	180	11546	Algebra	ALG	GIINF	1	B	1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n
+27/06/2025	15:00	180	13307	English for Business Communication B2	ICE	GIINF-GADE	3	B		B3
+27/06/2025	17:10	100	14008	Data Structures	EDA	GCD-GIOI	2	B	1E 2.0	Recuperación segundo parcial
+27/06/2025	18:00	180	11586	Computability and complexity	CMC	GIINF	3	B	1G 0.5, 1G 0.6	Recuperaci¿n final
+27/06/2025	18:00	150	11568	Software Quality	CSO	GIINF	3	B	1G 1.7	Recuperaci¿n
+27/06/2025	18:00	150	14941	Cibersecurity	CIB	GIINF	3	B	Aula 1G 0.8	Recuperaci¿n
+27/06/2025	18:00	150	11601	Organisational behaviour and change management	COR	GIINF	3	B	1G 0.1	Examen final
+30/06/2025	08:00	240	11736	Introduction to Accounting	IC	GIINF-GADE	1	B		B3
+30/06/2025	08:30	150	14554	Service and Industrial Robots	RIS	GIIROB	1	B	Aula 1G 0.8	Recuperaci¿n
+30/06/2025	08:30	240	11562	Concurrency and Distributed Systems	CSD	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.7	Recuperaci¿n de parciales de teor¿a y pr¿cticas
+30/06/2025	08:30	240	11756	Tax management in companies	GFE	GIINF-GADE	4	B		B3
+30/06/2025	08:30	90	14003	Programming	PRG	GCD	1	B	1G 0.5, 1G 0.6	Recuperación primer parcial
+30/06/2025	08:30	240	11562	Concurrency and Distributed Systems	CSD	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Recuperaci¿n de parciales de teor¿a y pr¿cticas
+30/06/2025	08:30	90	14003	Programming	PRG	GCD-GIOI	1	B	1G 0.5, 1G 0.6	Recuperación primer parcial
+30/06/2025	10:30	90	14003	Programming	PRG	GCD-GIOI	1	B	1G 0.5, 1G 0.6	Recuperación segundo parcial
+30/06/2025	10:30	90	14003	Programming	PRG	GCD	1	B	1G 0.5, 1G 0.6	Recuperación segundo parcial
+30/06/2025	11:00	90	14549	Intelligent agents	AIN	GIIROB	3	B	Aula 1G 0.8	Recuperación
+30/06/2025	12:30	120	14003	Programming	PRG	GCD-GIOI	1	B	LAB. DSIC 0,LAB. DSIC 1	Recuperación prácticas
+30/06/2025	12:30	120	14003	Programming	PRG	GCD	1	B	LAB. DSIC 0,LAB. DSIC 1	Recuperación prácticas
+30/06/2025	12:30	180	11741	Statistical Methods in Economics	MEE	GIINF-GADE	2	B		B3
+30/06/2025	15:00	120	14026	Databases	BDA	GCD-GIOI	2	B	1E 2.0	Recuperación
+30/06/2025	15:00	120	14546	Data Management for Industry	GDI	GIIROB	2	B	1G 0.7	Recuperación
+30/06/2025	15:00	150	14017	Data Sience Security	SDA	GCD	2	B	Aula 1G 0.8	Recuperación
+30/06/2025	15:00	120	11612	Database technology	TBD	GIINF	3	B	1G 1.4	Recuperación teoría
+30/06/2025	15:00	300	11549	Parallel computing	CPA	GIINF-GMAT	3	B	1E 0.0	Recuperacion
+30/06/2025	15:00	90	14919	Internet of Things	IDC	GIINF	3	B	1E 0.2	Recuperaci¿n
+30/06/2025	15:00	150	11588	Information storage and retrieval systems	SAR	GIINF	3	B	1G 0.5, 1G 0.6	Recuperaci¿n
+30/06/2025	15:30	240	11748	Production and Operation Management	DPO	GIINF-GADE	3	B		B3
+30/06/2025	17:30	120	14026	Databases	BDA	GCD-GIOI	2	B	LAB. DSIC 0	Recuperación trabajos académicos
+01/07/2025	08:00	180	11745	Cost accounting and introduction to auditing	CGIA	GIINF-GADE	4	B		B3
+01/07/2025	08:30	150	14021	Project III, data analysis	PRYIII	GCD	3	B	1G 0.5, 1G 0.6	Recuperaci¿n.
+01/07/2025	08:30	150	11567	Model-Driven Software Development	DSM	GIINF	3	B	1G 1.4	Recuperaci¿n
+01/07/2025	08:30	180	11750	Financial Mathematics	MF	GIINF-GADE	2	B		B3
+01/07/2025	08:30	150	14922	Deep Learning Systems for Industry	SDL	GIINF	3	B	1G 0.3	Recuperaci¿n
+01/07/2025	08:30	150	11597	Business requirements analysis	ARN	GIINF	3	B	1G 0.1	Recuperaci¿n
+01/07/2025	08:30	180	11564	Automata Theory and Formal Languages	TAL	GIINF-GMAT	2	B	1G 1.5	Recuperaci¿n
+01/07/2025	09:30	150	14015	Data acquisition and transmission	ATD	GCD-GIOI	2	B	1G 1.3	Recuperación
+01/07/2025	12:30	90	14015	Data acquisition and transmission	ATD	GCD-GIOI	2	B	1G 1.3	Examen prácticas
+01/07/2025	15:00	210	11555	Software engineering	ISW	GIINF-GMAT	3	B	1G 1.3	Recuperacion
+01/07/2025	15:00	180	11747	Strategy and Organization	EDO	GIINF-GADE	3	B		B3
+01/07/2025	16:00	180	11738	Microeconomics I	MICR I	GIINF-GADE	1	B		B3
+02/07/2025	08:00	180	11760	Macroeconomics II	MACRII	GIINF-GADE	3	B		B3
+02/07/2025	08:30	120	14019	Project I: understanding data	PROY I	GCD-GIOI	1	B	1G 1.5	Recuperaci¿n
+02/07/2025	08:30	240	11556	Human-Computer Interfaces	IPC	GIINF	2	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.4	Recuperaci¿n
+02/07/2025	08:30	240	11556	Human-Computer Interfaces	IPC	GIINF-GMAT	3	B	ETS DE INGENIERÍA INFORMÁTICA	Recuperación. Junto a GIINF.
+02/07/2025	08:30	210	14527	Circuit Technology	TCR	GIIROB	1	B	Aula 1G 0.8	Recuperación
+02/07/2025	08:30	120	14019	Project I: understanding data	PROY I	GCD	1	B	1G 1.5	Recuperaci¿n
+02/07/2025	11:00	150	14557	Mobile Robotics	ROM	GIIROB	3	B	1G 0.7,L. 1B 0.3 - G. HOPPER	Recuperación examen y trabajos.
+02/07/2025	15:00	150	14010	Descriptive and predictive models I	MDP I	GCD-GIOI	2	B	1G 0.7,Aula 1G 0.8	Recuperaci¿n teor¿a
+02/07/2025	15:00	150	14010	Descriptive and predictive models I	MDP I	GCD	2	B	1G 0.7,Aula 1G 0.8	Recuperaci¿n teor¿a
+02/07/2025	15:00	120	11612	Database technology	TBD	GIINF	3	B	LAB. DSIC 0,LAB. DSIC 2,LAB. DSIC 3	Recuperación de prácticas
+02/07/2025	15:00	240	11544	Computer Technology.	TCO	GIINF	1	B	1G 0.1, 1G 0.3, 1G 0.4, 1G 1.1, 1G 1.2, 1G 1.4	Recuperaci¿n
+02/07/2025	15:00	120	14545	Computer Graphics	IGR	GIIROB	2	B	1G 0.5	Recuperaci¿n
+02/07/2025	15:00	240	11544	Computer Technology.	TCO	GIINF-GMAT	2	B	ETS DE INGENIERÍA INFORMÁTICA	Recuperaci¿n. Mismas aulas GIINF
+02/07/2025	16:00	240	11763	Quantitative methods to support decision making	MCTD	GIINF-GADE	4	B		B3
+02/07/2025	16:00	180	11742	Business Law	DE	GIINF-GADE	2	B		B3
+02/07/2025	17:45	90	14010	Descriptive and predictive models I	MDP I	GCD	2	B	1G 0.7,Aula 1G 0.8	Recuperación prácticas
+02/07/2025	17:45	90	14010	Descriptive and predictive models I	MDP I	GCD-GIOI	2	B	1G 0.7,Aula 1G 0.8	Recuperación prácticas
+02/07/2025	18:00	150	11587	Intelligent Agents	AIN	GIINF	3	B	1G 0.5, 1G 0.6	Recuperaci¿n

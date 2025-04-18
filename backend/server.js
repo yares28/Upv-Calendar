@@ -2,6 +2,11 @@ const express = require('express');
 const { Pool } = require('pg');
 const cors = require('cors');
 const bodyParser = require('body-parser');
+const mongoose = require('mongoose');
+const dotenv = require('dotenv');
+
+// Load environment variables
+dotenv.config();
 
 // Create Express app
 const app = express();
@@ -11,27 +16,51 @@ const port = process.env.PORT || 3000;
 app.use(cors());
 app.use(bodyParser.json());
 
-// Database connection
+// PostgreSQL Database connection
 const pool = new Pool({
-  user: 'postgres',
-  host: 'localhost',
-  database: 'upv_calendar',
-  password: 'postgres', // Use your actual PostgreSQL password
-  port: 5432,
+  user: process.env.PG_USER || 'postgres',
+  host: process.env.PG_HOST || 'localhost',
+  database: process.env.PG_DATABASE || 'upv_calendar',
+  password: process.env.PG_PASSWORD || 'postgres',
+  port: process.env.PG_PORT || 5432,
 });
 
-// Test database connection
+// Test PostgreSQL connection
 pool.query('SELECT NOW()', (err, res) => {
   if (err) {
-    console.error('Database connection error:', err);
+    console.error('PostgreSQL connection error:', err);
   } else {
-    console.log('Database connected successfully:', res.rows[0].now);
+    console.log('PostgreSQL connected successfully:', res.rows[0].now);
   }
 });
 
-// Routes
+// MongoDB Connection
+const connectMongoDB = async () => {
+  try {
+    const mongoURI = process.env.MONGO_URI || 'mongodb://localhost:27017/upv_calendar';
+    const conn = await mongoose.connect(mongoURI);
+    console.log(`MongoDB connected: ${conn.connection.host}`);
+  } catch (error) {
+    console.error(`MongoDB connection error: ${error.message}`);
+    process.exit(1);
+  }
+};
 
-// Authentication endpoints
+// Connect to MongoDB
+connectMongoDB();
+
+// Import routes
+const authRoutes = require('./src/routes/authRoutes');
+const examRoutes = require('./src/routes/examRoutes');
+
+// Routes
+app.use('/api/auth', authRoutes);
+app.use('/api/exams', examRoutes);
+
+// Legacy PostgreSQL-based routes
+// These will gradually be replaced by MongoDB-based routes
+
+// Authentication endpoints (legacy)
 app.post('/api/login', async (req, res) => {
   try {
     const { email, password } = req.body;
@@ -90,7 +119,7 @@ app.post('/api/register', async (req, res) => {
   }
 });
 
-// Calendar endpoints
+// Calendar endpoints (legacy)
 app.get('/api/calendars', async (req, res) => {
   try {
     const userId = req.query.userId; // In a real app, you would get this from JWT token
@@ -182,6 +211,15 @@ app.delete('/api/calendars/:id', async (req, res) => {
   }
 });
 
+// Error handler middleware
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).json({
+    message: 'Server error',
+    error: process.env.NODE_ENV === 'development' ? err.message : undefined
+  });
+});
+
 // Start server
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
@@ -190,18 +228,21 @@ app.listen(port, () => {
 /*
 To run this server:
 1. Install required packages:
-   npm install express pg cors body-parser
+   npm install express pg cors body-parser mongoose dotenv bcryptjs jsonwebtoken
 
-2. Make sure PostgreSQL is running and the database is set up using the database_setup.sql script.
+2. Create a .env file with your environment variables:
+   PORT=3000
+   PG_USER=postgres
+   PG_HOST=localhost
+   PG_DATABASE=upv_calendar
+   PG_PASSWORD=postgres
+   PG_PORT=5432
+   MONGO_URI=mongodb://localhost:27017/upv_calendar
+   JWT_SECRET=your_jwt_secret
+   NODE_ENV=development
 
-3. Start the server:
+3. Make sure PostgreSQL and MongoDB are running.
+
+4. Start the server:
    node server.js
-
-This is a simple demonstration server. In a production environment, you would want to:
-- Use environment variables for database credentials
-- Implement proper JWT authentication
-- Add input validation
-- Hash passwords
-- Add error handling middleware
-- Use a more robust project structure
 */ 

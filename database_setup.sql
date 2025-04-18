@@ -33,12 +33,10 @@ CREATE TABLE saved_calendars (
 -- Insert sample data
 -- Sample user (password is 'password123' - in a real app, this would be hashed)
 INSERT INTO users (email, first_name, last_name) VALUES 
-    ('demo@example.com', 'Demo', 'User'),
-    ('john@example.com', 'John', 'Smith'),
-    ('maria@example.com', 'Maria', 'Garcia');
+    ('user@example.com', 'Demo', 'user');
 
 -- Update passwords (in a real app, these would be hashed with bcrypt or similar)
-UPDATE users SET password = 'password123';
+UPDATE users SET password = '1234';
 
 -- Sample saved calendars
 INSERT INTO saved_calendars (user_id, name, degrees, semesters, subjects) VALUES

@@ -1,117 +1,166 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { BehaviorSubject, Observable, of } from 'rxjs';
-import { map, catchError, tap } from 'rxjs/operators';
+import { Observable, BehaviorSubject, tap, catchError, throwError } from 'rxjs';
+import { Router } from '@angular/router';
+import { environment } from '../../environments/environment';
 
-interface User {
-  id: number;
+export interface User {
+  _id: string;
+  name: string;
   email: string;
-  first_name?: string;
-  last_name?: string;
+  savedCalendars: SavedCalendar[];
+  token: string;
 }
 
-interface AuthResponse {
-  success: boolean;
-  user: User;
-  token: string;
-  message?: string;
+export interface SavedCalendar {
+  _id: string;
+  name: string;
+  description?: string;
+  filters: {
+    degrees: string[];
+    semesters: string[];
+    subjects: string[];
+  };
+  createdAt: Date;
+}
+
+export interface LoginData {
+  email: string;
+  password: string;
+}
+
+export interface RegisterData {
+  name: string;
+  email: string;
+  password: string;
 }
 
 @Injectable({
   providedIn: 'root'
 })
 export class AuthService {
-  private apiUrl = 'http://localhost:3000/api';
-  private currentUserSubject = new BehaviorSubject<User | null>(null);
-  public currentUser = this.currentUserSubject.asObservable();
+  private apiUrl = environment.apiUrl + '/auth';
+  private userSubject = new BehaviorSubject<User | null>(null);
+  public user$ = this.userSubject.asObservable();
   
-  private tokenSubject = new BehaviorSubject<string | null>(null);
-  public token = this.tokenSubject.asObservable();
-
-  constructor(private http: HttpClient) {
-    // Load user from localStorage on startup
-    const storedUser = localStorage.getItem('currentUser');
-    const storedToken = localStorage.getItem('token');
-    
-    if (storedUser && storedToken) {
-      this.currentUserSubject.next(JSON.parse(storedUser));
-      this.tokenSubject.next(storedToken);
+  constructor(
+    private http: HttpClient,
+    private router: Router
+  ) {
+    this.loadUserFromStorage();
+  }
+  
+  // Load user from localStorage on service initialization
+  private loadUserFromStorage(): void {
+    const userJson = localStorage.getItem('user');
+    if (userJson) {
+      try {
+        const user = JSON.parse(userJson);
+        this.userSubject.next(user);
+      } catch (error) {
+        console.error('Error parsing user from localStorage:', error);
+        localStorage.removeItem('user');
+      }
     }
   }
   
-  get isLoggedIn(): boolean {
-    return this.currentUserSubject.value !== null;
-  }
-  
-  get currentUserId(): number | null {
-    return this.currentUserSubject.value?.id || null;
-  }
-
-  login(email: string, password: string): Observable<AuthResponse> {
-    return this.http.post<AuthResponse>(`${this.apiUrl}/login`, { email, password })
+  // Register new user
+  register(userData: RegisterData): Observable<User> {
+    return this.http.post<User>(`${this.apiUrl}/register`, userData)
       .pipe(
-        tap(response => {
-          if (response.success) {
-            localStorage.setItem('currentUser', JSON.stringify(response.user));
-            localStorage.setItem('token', response.token);
-            this.currentUserSubject.next(response.user);
-            this.tokenSubject.next(response.token);
-          }
+        tap(user => {
+          this.storeUserData(user);
         }),
         catchError(error => {
-          console.error('Login error:', error);
-          return of({ 
-            success: false, 
-            message: error.error?.message || 'Login failed',
-            user: {} as User,
-            token: ''
-          });
+          return throwError(() => new Error(error.error?.message || 'Registration failed'));
         })
       );
   }
-
-  register(email: string, password: string, firstName?: string, lastName?: string): Observable<AuthResponse> {
-    return this.http.post<AuthResponse>(`${this.apiUrl}/register`, { 
-      email, 
-      password,
-      firstName,
-      lastName
-    }).pipe(
-      tap(response => {
-        if (response.success) {
-          localStorage.setItem('currentUser', JSON.stringify(response.user));
-          localStorage.setItem('token', response.token);
-          this.currentUserSubject.next(response.user);
-          this.tokenSubject.next(response.token);
-        }
-      }),
-      catchError(error => {
-        console.error('Registration error:', error);
-        return of({ 
-          success: false, 
-          message: error.error?.message || 'Registration failed',
-          user: {} as User,
-          token: ''
-        });
-      })
-    );
-  }
-
-  logout(): void {
-    // Remove user from local storage
-    localStorage.removeItem('currentUser');
-    localStorage.removeItem('token');
-    
-    // Update subject values
-    this.currentUserSubject.next(null);
-    this.tokenSubject.next(null);
+  
+  // Login user
+  login(loginData: LoginData): Observable<User> {
+    return this.http.post<User>(`${this.apiUrl}/login`, loginData)
+      .pipe(
+        tap(user => {
+          this.storeUserData(user);
+        }),
+        catchError(error => {
+          return throwError(() => new Error(error.error?.message || 'Login failed'));
+        })
+      );
   }
   
-  // For now, we're using a mock implementation but in a real app,
-  // this would verify the token with the server
-  checkTokenValidity(): Observable<boolean> {
-    const token = this.tokenSubject.value;
-    // Just check if we have a token for now
-    return of(!!token);
+  // Store user data in localStorage and update BehaviorSubject
+  private storeUserData(user: User): void {
+    localStorage.setItem('user', JSON.stringify(user));
+    this.userSubject.next(user);
+  }
+  
+  // Logout user
+  logout(): void {
+    localStorage.removeItem('user');
+    this.userSubject.next(null);
+    this.router.navigate(['/login']);
+  }
+  
+  // Get current user
+  getCurrentUser(): User | null {
+    return this.userSubject.value;
+  }
+  
+  // Check if user is logged in
+  isLoggedIn(): boolean {
+    return !!this.userSubject.value;
+  }
+  
+  // Get token
+  getToken(): string | null {
+    return this.userSubject.value?.token || null;
+  }
+  
+  // Get user profile
+  getUserProfile(): Observable<User> {
+    return this.http.get<User>(`${this.apiUrl}/profile`)
+      .pipe(
+        catchError(error => {
+          return throwError(() => new Error(error.error?.message || 'Failed to get user profile'));
+        })
+      );
+  }
+  
+  // Save calendar
+  saveCalendar(calendar: { name: string, filters: any }): Observable<SavedCalendar[]> {
+    return this.http.post<SavedCalendar[]>(`${this.apiUrl}/calendar`, calendar)
+      .pipe(
+        tap(calendars => {
+          // Update the user's saved calendars in local storage
+          const user = this.userSubject.value;
+          if (user) {
+            user.savedCalendars = calendars;
+            this.storeUserData(user);
+          }
+        }),
+        catchError(error => {
+          return throwError(() => new Error(error.error?.message || 'Failed to save calendar'));
+        })
+      );
+  }
+  
+  // Delete calendar
+  deleteCalendar(calendarId: string): Observable<SavedCalendar[]> {
+    return this.http.delete<SavedCalendar[]>(`${this.apiUrl}/calendar/${calendarId}`)
+      .pipe(
+        tap(calendars => {
+          // Update the user's saved calendars in local storage
+          const user = this.userSubject.value;
+          if (user) {
+            user.savedCalendars = calendars;
+            this.storeUserData(user);
+          }
+        }),
+        catchError(error => {
+          return throwError(() => new Error(error.error?.message || 'Failed to delete calendar'));
+        })
+      );
   }
 } 
