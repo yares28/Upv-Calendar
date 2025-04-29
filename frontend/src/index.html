@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>UPV Calendar</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f8f7">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#070807">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script>
+    // Inline script to detect and set theme before full page load
+    (function() {
+      try {
+        if (typeof window !== 'undefined' && typeof document !== 'undefined' && localStorage) {
+          // Add preloading class to prevent transition flashes
+          document.documentElement.classList.add('theme-preloading');
+          
+          // Check for stored theme preference
+          const storedTheme = localStorage.getItem('theme');
+          
+          // Use dark mode as default unless light mode is explicitly set
+          if (!storedTheme || storedTheme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark');
+          }
+        }
+      } catch (e) {
+        // Silently fail if localStorage is not available
+        // Default to dark mode for SSR
+        if (typeof document !== 'undefined') {
+          document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      }
+    })();
+  </script>
+</head>
+<body>
+  <app-root></app-root>
+  <script>
+    // Remove preloading class after a short delay to enable transitions
+    if (typeof window !== 'undefined' && typeof document !== 'undefined') {
+      window.addEventListener('load', function() {
+        setTimeout(function() {
+          document.documentElement.classList.remove('theme-preloading');
+        }, 300);
+      });
+    }
+  </script>
+</body>
+</html>
